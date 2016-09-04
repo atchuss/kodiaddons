@@ -1,0 +1,1196 @@
+﻿1<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+<channel>
+    
+<name>[COLOR=peru][B]IMPORTANTE[/B] [/COLOR][COLOR=orange][B] "TENER ACTIVADO EL PLUGIN DE YOUTUBE EN KODI"[/B][/COLOR]</name>
+<link>http://ignorame</link><thumbnail>none</thumbnail><fanart>http://ignorame</link><thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR=peru][B]PERSONAL TRAINER CONSULTAS: MATIAS [/B][/COLOR]</name>
+<link>http://ignorame</link><thumbnail>http://storage.designcrowd.com/design_img/179475/124742/124742_2103539_179475_thumbnail.jpg</thumbnail><fanart>http://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121202875/16888768-Abstract-word-cloud-for-Personal-trainer-with-related-tags-and-terms-Stock-Photo.jpg</fanart>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>             [COLOR=aquamarine][B] >>>>>>>> SECCION TAE BO <<<<<<<< [/B][/COLOR]</name>
+<thumbnail>none</thumbnail>
+<link>http://ignorame</link>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo[/B]</info>
+
+
+<channel>
+<name>  [COLOR=yellow][B]•… BILLY BLANKS TAE BO® FITNESS (Taebo)[/B][/COLOR]</name>
+<thumbnail>http://www.sportunion-schaerding.at/files/img/Sportbilder/Fitness/TaeBo/TaeBo_Logo_red.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+
+
+<item>
+<title>[COLOR=lightseagreen][B]••• RUTINAS DE EJERCICIOS - WORKOUT ROUTINES •••[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://static1.squarespace.com/static/5160bb45e4b0e13a258812c8/t/547e62b6e4b091d03e2021fc/1417568950500/</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* 10 minute Tae Bo® Workouts[/B][/COLOR] [COLOR darkseagreen]( 10 minutos Tae Bo® entrenamientos )[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLDULdzOzi3Sp70IdJs-4wNZNHofcWR6K3</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static1.squarespace.com/static/5160bb45e4b0e13a258812c8/t/547e62b6e4b091d03e2021fc/1417568950500/</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Tae Bo® Fitness Workouts![/B][/COLOR] [COLOR darkseagreen]( Los entrenamientos de fitness )[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLDULdzOzi3Sprr_e2Op69eoPNUaq5Z7Ev</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static1.squarespace.com/static/5160bb45e4b0e13a258812c8/t/547e62b6e4b091d03e2021fc/1417568950500/</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* 30 minute - 1 hour Tae Bo® Workouts[/B][/COLOR] [COLOR darkseagreen]( 30 minutos - 1 hora Tae Bo® entrenamientos )[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLDULdzOzi3SqCR-_IpW1XFFs-TXMtNuJU</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static1.squarespace.com/static/5160bb45e4b0e13a258812c8/t/547e62b6e4b091d03e2021fc/1417568950500/</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow][B]* 1 on 1 workouts with Billy![/B][/COLOR] [COLOR darkseagreen]( 1 on 1 workouts with Billy! )[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLDULdzOzi3SoNj54nRr1Vs7Lr3L9k1eLh</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static1.squarespace.com/static/5160bb45e4b0e13a258812c8/t/547e62b6e4b091d03e2021fc/1417568950500/</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Billy Blanks PT 24/7 and Bands Workouts![/B][/COLOR] [COLOR darkseagreen]( Billy Blanks PT 24/7 y bandas de entrenamientos!! )[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLDULdzOzi3SoNj54nRr1Vs7Lr3L9k1eLh</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static1.squarespace.com/static/5160bb45e4b0e13a258812c8/t/547e62b6e4b091d03e2021fc/1417568950500/</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Tae Bo® News[/B][/COLOR] [COLOR darkseagreen]( Noticias Tae Bo® )[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLDULdzOzi3SoNj54nRr1Vs7Lr3L9k1eLh</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static1.squarespace.com/static/5160bb45e4b0e13a258812c8/t/547e62b6e4b091d03e2021fc/1417568950500/</thumbnail>
+<fanart>http://i.ytimg.com/vi/Pk_wI1CrdZE/maxresdefault.jpg</fanart>
+<info>[B]El tae bo es una rutina de ejercicios principalmente asociados al boxeo y al taekwondo desarrollada por el siete veces campeón del mundo de karate y practicante de taekwondo Billy Blanks[/B]</info>
+</item>
+
+
+<channel>
+<name>             [COLOR=aquamarine][B] >>>>>>>> SECCION FITNESS <<<<<<<< [/B][/COLOR]</name>
+<thumbnail>none</thumbnail>
+<fanart>http://www.lisassuperstore.com/wp-content/uploads/2015/09/Webheader2_82992750.jpg</fanart>
+<link>http://ignorame</link>
+<info>[B]Fitness (en español buena forma) hace referencia regularmente a una actividad física de movimientos repetidos que se planifica y se sigue regularmente con el propósito de mejorar o mantener el cuerpo en buenas condiciones.[/B]</info>
+
+
+<channel>
+<name>  [COLOR=yellow][B]•… FAUSTO MURILLO® FITNESS[/B][/COLOR]</name>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/50/58/1f/50581fabbd8368a1aab901cddb9f6275.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+
+<item>
+<title>[COLOR=yellow][B]* RUTINAS DE PRINCIPIANTES[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_sidUi_Z5a6Pm3shd4W9Bd</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RUTINAS TABATA DRAGON BALL Z [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9ef1ktnJ6KloeMqBnPolMV</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RETO DE CARDIO ABDOMINALES [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_XtNpgoNGkXE4ow1RC45SC</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item> 
+
+<item>
+<title>[COLOR=yellow][B]* EJERCICIOS DE ABDOMEN, PIERNAS Y GLUTEOS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8z2agCe1_dI-SmLbSdNffs</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+ 
+
+<item>
+<title>[COLOR=yellow][B]* RUTINA GAB, TABATA: CARDIO PARA PIERNAS, NALGAS Y GLUTEOS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9t8wkvvQGEjyJ0NlAlwP2m</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* QUEMAR GRASA Y ENTRENAMIENTO ESPARTANO[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_9-Tyztimw340LkmVq0-kk</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RUTINA PARA ADELGAZAR Y TABATA[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_NoaCT6ZVO1_UDGf0TKvMG</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* REDUCIR CINTURA Y PERDER PESO[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9lQ4SnBw_nyZXKdOwYfJ3u</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* QUEMAR GRASA Y ENTRENAMIENTO PARA ANTES DE LA DUCHA[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_8lUFvIOpMhRvzC52id_HJ</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RUTINA TABATA PARA ADELGAZAR Y TONIFICAR [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9OqZBPA3klgMCgs3WbxJr0</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* ELIMINAR GRASA ABDOMINAL CON CARDIO[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn93zf1fvmFfvP7rtxDbiLFU</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* QUEMAR GRASA CARDIO INTENSO[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn93zf1fvmFfvP7rtxDbiLFU</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* CARDIO TABATA Y PECTORALES, BRAZOS Y ABDOMINALES.[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9i_q85N2RRPlwAht2bqsyZ</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* CARDIO TABATA ADELGAZAR Y PECTORALES, GLUTEOS Y ABDOMINALES.PRINCIPIANTES[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8FuWRCF6-z57PuNzncf5a-</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* CARDIO QUEMAR GRASA Y ELIMINAR CELULITIS EN PIERNAS Y NALGAS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8xteq_p1IVbEhSsqnR5BG7</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* REAFIRMAR PIERNAS, GLUTEOS Y ELIMINAR ROLLITOS DE GRASA[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_K3D2vCfxYCBHSdYA2Fuo3</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* MOLDEAR CINTURA Y CARDIO TABATA ABDOMEN Y PIERNAS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9DJjZtIMgAaIBFnDdPqfqF</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* ENTRENAMIENTO CASA Y TRICEPS, BRAZOS (NIVEL INTERMEDIO)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8279oboRE5R7kYc9qW8zya</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* ENTRENAMIENTO TODO EL CUERPO, TRICEPS BRAZOS (NIVEL INTERMEDIO)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8279oboRE5R7kYc9qW8zya</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* FLEXIONES BRAZOS Y ABDOMINALES, ABDOMEN GLUTEOS CARDIO (NIVEL PRINCIPIANTE)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn87LI0_7bVcsQ4yEbz4Ebop</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* LEVANTAR GLUTEOS Y TONIFICAR PIERNAS (NIVEL PRINCIPIANTE / INTERMEDIO)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_S-bnPVWhnuwXefPLufHss</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* TABATA PARA QUEMAR CALORIAS Y TONIFICAR / ABDOMINALES Y CARDIO[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_SfDN3X55Ueg7z0JwHCCsM</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* QUEMAR GRASA Y CARDIO TABATA ABDOMEN, PIERNAS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn-5oqG3J1TiIkNeWEb4BiMN</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* EL RETO DE LOS 8 DIAS (PRINCIPIANTES)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9R2REB_v2dIsSGmzFsvhvP</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RETO TABATA PARA PERDER PESO EN 30 DIAS [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9MUoi7tPgC-cquR5HiNV_f</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RETO TABATA PARA PERDER PESO EN 30 DIAS [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9MUoi7tPgC-cquR5HiNV_f</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RETO TREN SUPERIOR: PECTORALES, BRAZOS Y ABDOMINALES  [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn-Lx_ZsIvSobojd4I6rKhvK</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RETO DE SENTADILLAS [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_3a9IFNd5jkGzh_ZeTcWS8</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow][B]* RETO DE ABDOMINALES EN 30 DIAS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8UNps4FAVNSI90m4qe3O9A</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RUTINAS DE GLUTEOS, PIERNAS Y NALGAS[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn9C899v2Pc1Wim8cihNyQ7_</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow][B]* RUTINAS CON MANCUERNAS PARA GANAR MASA MUSCULAR [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8VdtQbniEovSnnbfAbXIiB</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* ELIMINAR GRASA DE LOS PECTORALES SEMANA 2 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8CdcmLxvkUAMcg2y4JQsu-</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+ 
+<item>
+<title>[COLOR=yellow][B]* RUTINA PARA LOS BRAZOS [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8KwVBnnl2WFuaCZyeGffu0</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* RETO DE BURPEES EN 30 DIAS [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn8jyNxt1xo0FCX0o7Yf6s8o</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* ALIMENTACION SALUDABLE [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_Fm8NLwVeGc4rWeN5W915R</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* BATIDOS QUEMA GRASA O REDUCTORES [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLKsLeERYMfn_AV-AJJsArAsAfz9VL4N2b</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://image.casadellibro.com/a/l/t0/71/9789584245571.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WCmKbnlL7CU/maxresdefault.jpg</fanart>
+<info>[B]Fausto Murillo te enseña aparte de hacer estas rutinas de ejercicios, ha tomar en consideración un factor que es crucial: LA BUENA ALIMENTACION.[/B]</info>
+</item>
+
+<channel>
+<name>  [COLOR=yellow][B]•… GYMVIRTUAL® FITNESS[/B][/COLOR]</name>
+<thumbnail>https://yt3.ggpht.com/-b0NtN-R0N6c/AAAAAAAAAAI/AAAAAAAAAAA/_4rUZxg5lK8/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fCYWUmsiEnk/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios con Patry Jordan[/B]</info>
+
+<item>
+<title>[COLOR=yellow][B]* Rutinas de ejercicio cardiovascular | Para adelgazar [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLReDUkUQG7xpQIEnAv0_o0c5MEh5TJE_a</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-b0NtN-R0N6c/AAAAAAAAAAI/AAAAAAAAAAA/_4rUZxg5lK8/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fCYWUmsiEnk/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios con Patry Jordan[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Ejercicios de glúteos[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLReDUkUQG7xrWBer-RbJ9tZP8e-QjmYPD</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-b0NtN-R0N6c/AAAAAAAAAAI/AAAAAAAAAAA/_4rUZxg5lK8/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fCYWUmsiEnk/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios con Patry Jordan[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Yo Elijo Cuidarme Entrenamientos[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLReDUkUQG7xp9MJxLg-nP2BNxFR6L6lFw</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-b0NtN-R0N6c/AAAAAAAAAAI/AAAAAAAAAAA/_4rUZxg5lK8/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fCYWUmsiEnk/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios con Patry Jordan[/B]</info>
+</item>
+
+<channel>
+<name>  [COLOR=yellow][B]•… MUSCLE & STRENGTH® FITNESS[/B][/COLOR] [COLOR darkseagreen]( ENGLISH)[/COLOR]</name>
+<thumbnail>https://yt3.ggpht.com/-OieB4cJBwgs/AAAAAAAAAAI/AAAAAAAAAAA/xR2XicRueFc/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/68wWkxL477A/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios para levantamiento de Pesas en Ingles[/B]</info>
+
+
+<item>
+<title>[COLOR=yellow][B]* Workouts With Pro Athletes [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLp5PgSZbYOgucMBZbCtCz6zsne5dLkgeV</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-OieB4cJBwgs/AAAAAAAAAAI/AAAAAAAAAAA/xR2XicRueFc/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/68wWkxL477A/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios para levantamiento de Pesas en Ingles[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Mass Performance Workout Program  [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLp5PgSZbYOgvee3axNzGGpK9KG0BUUJhQ</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-OieB4cJBwgs/AAAAAAAAAAI/AAAAAAAAAAA/xR2XicRueFc/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/68wWkxL477A/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios para levantamiento de Pesas en Ingles[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Fast 21 Workout: Shred Fat, Maintain Muscle  [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLp5PgSZbYOgtPbOKNr7MnSWW66Uiv4YPR</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-OieB4cJBwgs/AAAAAAAAAAI/AAAAAAAAAAA/xR2XicRueFc/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/68wWkxL477A/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios para levantamiento de Pesas en Ingles[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Anton Antipov's Workout Advice & Training Tips [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLp5PgSZbYOgvDTtrOAU1751XCUx2vzS8J</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-OieB4cJBwgs/AAAAAAAAAAI/AAAAAAAAAAA/xR2XicRueFc/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/68wWkxL477A/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios para levantamiento de Pesas en Ingles[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow][B]* Tips & Advice  [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLp5PgSZbYOgvcuWmjcMzoJgqmb6Vhtbee</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-OieB4cJBwgs/AAAAAAAAAAI/AAAAAAAAAAA/xR2XicRueFc/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/68wWkxL477A/maxresdefault.jpg</fanart>
+<info>[B]Rutinas de ejercicios para levantamiento de Pesas en Ingles[/B]</info>
+</item>
+
+<channel>
+<name>  [COLOR=yellow][B]•… P90X EN ESPAÑOL - [/B][/COLOR] [COLOR darkseagreen]Sistema Extremo De Fitness Solo En 90 Dias (Gracias a Saul Escalante)[/COLOR]</name>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+
+<item>
+<title>[COLOR=yellow][B]* Inicio: Como Lograrlo[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8N05DbzBLZ3daakk</link>  
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 01: Pecho y Espalda[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8dTl2WWEwUHFkN0E</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 02: Ejercicios Pliométricos[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8WGpNMmxSOTk0d0k</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 03: Hombros y Brazos[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8MFNCcHVCYWxMZHM</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 04: Yoga X[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0ByR51jSZVSC3VVBlRVlCc3N3SEU</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 05: Piernas y Espalda[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8MnpDOGlMTWxYYWc</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 06: Kempo X[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8V21UWm9oLVpxeWM</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 07: Estiramiento[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0ByR51jSZVSC3dkl0bWpyY0hMQWs</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 08: Sinérgicos para el Centro del Cuerpo[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8X1RiT3M1TlQzUVU</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 09: Pecho, Hombros y triceps[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8MFY5VW5KdGpTWGs</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 10: Pecho, Espalda y Biceps[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0B36xeKQcuJs8QjM0TGN3T1g2YmM</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 11: Cardio X[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0ByR51jSZVSC3VHRHVlJiYVVIWTg</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Paso 12: Abdominales X[/B][/COLOR] [COLOR darkseagreen](Gracias a Saul Escalante)[/COLOR]</title>
+<link>https://www.googledrive.com/host/0ByR51jSZVSC3REEzQWl5aVFkZms</link>
+<thumbnail>http://cdn2.bigcommerce.com/server3500/8dab4/products/41/images/152/p90x-4__55061.1322510111.1280.1280.jpg</thumbnail>
+<fanart>http://blog.extremefitnessresults.com/wp-content/uploads/2010/10/p90x-back-and-biceps.jpg</fanart>
+<info>[B]P90X® es el revolucionario sistema de 12 rutinas de ejercicios que definen los músculos y te ponen a sudar, diseñado para transformar tu cuerpo normal a uno definido en sólo 90 días.[/B]</info>
+</item>
+
+<channel>
+<name>  [COLOR=yellow][B]•… MOTIVACION PARA LOS QUE NO GUSTAN HACER EJERCICIOS - [/B][/COLOR] [COLOR darkseagreen]video motivador[/COLOR]</name>
+<thumbnail>http://imgfave-herokuapp-com.global.ssl.fastly.net/image_cache/1439566182980699.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/06/14/9b/06149bd8c88038b982a6c10d43c0fd74.jpg</fanart>
+<info>[B]Si eres un hombre con poca motivación para los ejercicios estos videos te pueden ayudar[/B]</info>
+
+<item>
+<title>[COLOR=yellow][B]* Fitness - Yoga - sport - Women[/B][/COLOR] [COLOR darkseagreen]Rutinas de ejercicios para Motivar a los ociosos[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLCIffI2Ujlkf99SKJAJQKf3yepljCGKI1</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://imgfave-herokuapp-com.global.ssl.fastly.net/image_cache/1439566182980699.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/06/14/9b/06149bd8c88038b982a6c10d43c0fd74.jpg</fanart>
+<info>[B]Rutinas de ejercicios para Motivar a los ociosos[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow][B]* Female Fitness Motivation [/B][/COLOR] [COLOR darkseagreen]Rutinas de ejercicios para Motivar a los ociosos[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLZ5Vocr6RP0Nc58wqT5Dw_W4QTgvV5Ua8</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://imgfave-herokuapp-com.global.ssl.fastly.net/image_cache/1439566182980699.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/06/14/9b/06149bd8c88038b982a6c10d43c0fd74.jpg</fanart>
+<info>[B]Rutinas de ejercicios para Motivar a los ociosos[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow][B]* Fitness Models [/B][/COLOR] [COLOR darkseagreen]Rutinas de ejercicios para Motivar a los ociosos[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+            <page>https://www.youtube.com/playlist?list=PLZ5Vocr6RP0PCkGZG7nVZOGQkWkvjWhMH</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://imgfave-herokuapp-com.global.ssl.fastly.net/image_cache/1439566182980699.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/06/14/9b/06149bd8c88038b982a6c10d43c0fd74.jpg</fanart>
+<info>[B]Rutinas de ejercicios para Motivar a los ociosos[/B]</info>
+</item>

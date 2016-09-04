@@ -1,0 +1,947 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+<item>
+<title>[COLOR=cyan][B] CANALES DE DEPORTE ESPAÑA BASSFOX[/B][/COLOR]</title>
+<thumbnail>http://www.twitip.com/wp-content/uploads/2011/06/TV_REMOTE_02.jpg</thumbnail>
+<fanart>http://www.ytel.je/wp-content/uploads/2014/06/CABLE-TV-LARGE.png</fanart>
+<info>[B]Canales de España las 24 hrs en vivo (Si un canal deja de funcionar comunicalo a su autor para una pronta solución)[/B]</info>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR=red][B]LEEME URGENTE[/B][/COLOR] [COLOR darkseagreen][B]PARA EL FUNCIONAMIENTO DE ALGUNOS CANALES NECESITAS INSTALAR SPORTSDEVIL[/B][/COLOR]</title>
+<thumbnail>http://www.twitip.com/wp-content/uploads/2011/06/TV_REMOTE_02.jpg</thumbnail>
+<fanart>http://www.ytel.je/wp-content/uploads/2014/06/CABLE-TV-LARGE.png</fanart>
+<info>[B]Canales de España las 24 hrs en vivo (Si un canal deja de funcionar comunicalo a su autor para una pronta solución)[/B]</info>
+<link>http://ignoreme</link>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]BIOPHOBIA[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]MultiFútbol[/B][/COLOR] </title>
+<link>http://hls.goodgame.ru/hls/60712.m3u8</link>
+<link>http://streamup.global.ssl.fastly.net/app/biophobiatv1s-stream/chunklist.m3u8</link>
+<thumbnail>http://www.deporteyempresa.com/equipos/logoradio-tvcopy-web.jpg</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+
+http://biophobia.tv/multifutbol/canal1.php
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]BIOPHOBIA[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link>
+<regex>
+<name>get-response</name>
+<expres>(.*)</expres>
+<page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page>
+</regex>
+<regex>
+<name>get-id</name>
+<expres>"roomSlug": "(.*?)"</expres>
+<page>https://streamup.com/BIOPHOBIA-TV</page>
+</regex>	
+<thumbnail>http://biophobia.tv/imagenes/multifutbol.jpg</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]BIOPHOBIA 2[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<sportsdevil>http://biophobia.tv/rojadirectahd.php</sportsdevil>
+<referer>http://biophobia.tv<referer>
+<thumbnail>http://biophobia.tv/imagenes/multifutbol.jpg</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]BIOPHOBIA 3[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<link>http://hls.goodgame.ru/hls/$doregex[get-id].m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>/ggplayer.html\?(.*?)"</expres>
+<page>http://biophobia.tv/multis/sata.php</page>
+</regex>
+<thumbnail>http://biophobia.tv/imagenes/deportes.jpg</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]SOLO EVENTOS 1[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<sportsdevil>http://titosportstv.com/tv2.html</sportsdevil>
+<referer>http://titosportstv.com</referer>
+<thumbnail>http://mundofutbolgdl.com/wp-content/uploads/2015/01/Logo-Mundo-futbol.png</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]SOLO EVENTOS 2[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<sportsdevil>http://titosportstv.com/tv1.html</sportsdevil>
+<referer>http://titosportstv.com</referer>
+<thumbnail>http://mundofutbolgdl.com/wp-content/uploads/2015/01/Logo-Mundo-futbol.png</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]SOLO EVENTOS 3[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<sportsdevil>http://tugoleada.com/canal1.php</sportsdevil>
+<referer>http://tugoleada.com</referer>
+<thumbnail>http://mundofutbolgdl.com/wp-content/uploads/2015/01/Logo-Mundo-futbol.png</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]SOLO EVENTOS 4[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<sportsdevil>http://lacasadeltikitaka.futbol/embed/TV/evento1.php</sportsdevil>
+<referer>http://lacasadeltikitaka.futbol</referer>
+<thumbnail>http://mundofutbolgdl.com/wp-content/uploads/2015/01/Logo-Mundo-futbol.png</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]SOLO EVENTOS 5[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://malaga65.org/p/ch3.php')</expres>
+<page>http://www.malaga65.org</page>
+</regex>
+<thumbnail>http://mundofutbolgdl.com/wp-content/uploads/2015/01/Logo-Mundo-futbol.png</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]SOLO EVENTOS 6[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Eventos[/B][/COLOR] </title>
+<sportsdevil>http://tugoleada.com/canal7.php</sportsdevil>
+<referer>http://tugoleada.com</referer>
+<thumbnail>http://mundofutbolgdl.com/wp-content/uploads/2015/01/Logo-Mundo-futbol.png</thumbnail>
+<fanart>http://p1.pichost.me/i/63/1880220.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + FUTBOL[/B][/COLOR] …•ˆ•.) [/COLOR][COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://verdirectotv.com/tv/deportes/plusfutbol.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://1.bp.blogspot.com/-bPUp4C6_gZ0/UaI18ip_WfI/AAAAAAAAEV0/avDle93bvU0/s320/LOGO-CANAL+-F%C3%9ATBOL-HD.jpg</thumbnail>
+<fanart>http://marvelll.fr/wp-content/uploads/2014/06/nike-the-last-game-casting.jpeg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + FUTBOL[/B][/COLOR] …•ˆ•.) [/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR] </title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-bPUp4C6_gZ0/UaI18ip_WfI/AAAAAAAAEV0/avDle93bvU0/s320/LOGO-CANAL+-F%C3%9ATBOL-HD.jpg</thumbnail>
+<fanart>http://marvelll.fr/wp-content/uploads/2014/06/nike-the-last-game-casting.jpeg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + FUTBOL[/B][/COLOR] …•ˆ•.) [/COLOR] [COLOR darkseagreen][B]Indefinido 2[/B][/COLOR] </title>
+<link>$doregex[get_rtmp]</link>
+<regex>
+<Name>get_rtmp</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/68720/Canal%2B_Futbol_%28HD%29',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-bPUp4C6_gZ0/UaI18ip_WfI/AAAAAAAAEV0/avDle93bvU0/s320/LOGO-CANAL+-F%C3%9ATBOL-HD.jpg</thumbnail>
+<fanart>http://marvelll.fr/wp-content/uploads/2014/06/nike-the-last-game-casting.jpeg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + FUTBOL[/B][/COLOR] …•ˆ•.) [/COLOR] [COLOR darkseagreen][B]Indefinido F4m Tester Opcion 2[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FUTBOL</link>
+<thumbnail>http://1.bp.blogspot.com/-bPUp4C6_gZ0/UaI18ip_WfI/AAAAAAAAEV0/avDle93bvU0/s320/LOGO-CANAL+-F%C3%9ATBOL-HD.jpg</thumbnail>
+<fanart>http://marvelll.fr/wp-content/uploads/2014/06/nike-the-last-game-casting.jpeg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+#SEGURO LO VAS A COPIAR Y DICES QUE SABES HACER REGEX Y POTENCIAL PENDEJO JAJAJAJA HUEVON, GORDO CHUPA PIJA COPION, ENANO FRIJOLERO YA LOS CONOZCO COMO AL VIEJO GALLEGO CABEZA DE PENE
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + FUTBOL[/B][/COLOR] …•ˆ•.) [/COLOR] [COLOR darkturquoise][B]PLEXUS[/B][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=CANAL FUTBOL By BassFox</link>
+<regex>
+<name>hash</name>
+<expres>this.loadTorrent."(.*?)"<expres>                                          
+<page>http://torrent-tv.ru/torrent-online.php?translation=14840</page>
+<cookiejar></cookiejar>
+<referer>http://torrent-tv.ru/torrent-online.php?translation=14840</referer>
+</>6torrent73b62f7s3f2wx</>
+</regex>
+<thumbnail>http://marvelll.fr/wp-content/uploads/2014/06/nike-the-last-game-casting.jpeg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/17/d/wallpaper-sports-computer-jvfree-olympics-sport-175149.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=wr8owvmlrah0aga swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/17/d/wallpaper-sports-computer-jvfree-olympics-sport-175149.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido F4m Tester[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/fr443500/75019pa/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DEPORTE</link>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/17/d/wallpaper-sports-computer-jvfree-olympics-sport-175149.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE & VARIADO [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Opción 3[/B][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=er74m687t3tr0kz swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/17/d/wallpaper-sports-computer-jvfree-olympics-sport-175149.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkturquoise][B]PLEXUS[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=CANAL DEPORTE - By BassFox</link>
+<regex>
+<name>hash</name>
+<expres>this.loadTorrent."(.*?)"<expres>                                          
+<page>http://torrent-tv.ru/torrent-online.php?translation=13230</page>
+<cookiejar></cookiejar>
+<referer>http://torrent-tv.ru/torrent-online.php?translation=13230</referer>
+</regex>
+</>6torrent73b62f7s3f2wx</>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/17/d/wallpaper-sports-computer-jvfree-olympics-sport-175149.jpg</fanart>
+<info>[B]Canal+ Deportes es un canal de televisión español de pago, propiedad de Telefónica y disponible exclusivamente a través de Canal+[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE 2 HQ[/B][/COLOR] …•ˆ•.) [COLOR darkseagreen][B]Indefinido F4m Tester[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/fr443500/75019pa/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DEPORTE 2</link>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/17/d/wallpaper-sports-computer-jvfree-olympics-sport-175149.jpg</fanart>
+<info>[B]Canal+ Deportes es un canal de televisión español de pago, propiedad de Telefónica y disponible exclusivamente a través de Canal+[/B]</info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE 2[/B][/COLOR] …•ˆ•.) [COLOR darkturquoise][B]PLEXUS[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=CANAL DEPORTE - By BassFox</link>
+<regex>
+<name>hash</name>
+<expres>this.loadTorrent."(.*?)"<expres>                                          
+<page>http://torrent-tv.ru/torrent-online.php?translation=13231</page>
+<cookiejar></cookiejar>
+<referer>http://torrent-tv.ru/torrent-online.php?translation=13231</referer>
+</regex>
+</>6torrent73b62f7s3f2wx</>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://www.desktopwallpaperhd.net/wallpapers/17/d/wallpaper-sports-computer-jvfree-olympics-sport-175149.jpg</fanart>
+<info>[B]Canal+ Deportes es un canal de televisión español de pago, propiedad de Telefónica y disponible exclusivamente a través de Canal+[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://1.bp.blogspot.com/-bPUp4C6_gZ0/UaI18ip_WfI/AAAAAAAAEV0/avDle93bvU0/s320/LOGO-CANAL+-F%C3%9ATBOL-HD.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA H[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>http://www.rojadirectaa.com/wp-content/uploads/2014/12/Canal-Plus-La-Liga-Online-Por-Internet.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA HQ[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.rojadirectaa.com/wp-content/uploads/2014/12/Canal-Plus-La-Liga-Online-Por-Internet.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA HQ[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido 2[/B][/COLOR]</title>
+<link>$doregex[get_rtmp]</link>
+<regex>
+<Name>get_rtmp</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/70190/Canal%2B_Liga_%28HD%29',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>http://www.rojadirectaa.com/wp-content/uploads/2014/12/Canal-Plus-La-Liga-Online-Por-Internet.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido F4m Tester[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/fr443500/75019pa/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ LIGA</link>
+<thumbnail>http://www.rojadirectaa.com/wp-content/uploads/2014/12/Canal-Plus-La-Liga-Online-Por-Internet.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido F4m Tester[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ LIGAB</link>
+<thumbnail>http://www.rojadirectaa.com/wp-content/uploads/2014/12/Canal-Plus-La-Liga-Online-Por-Internet.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B] 8 partidos de liga y la mejor programacion dedicada al futbol[/B] </info>
+</item>
+
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2 (A)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>rtmp://31.220.0.194/privatestream/liga2a48?keys=HXH9aWO_pO5kFqxi3E_dCg&keyt=1448378368 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2 (A)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2 (B)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>rtmp://31.220.2.50/privatestream/liga2b26?keys=V-Yz39knNxSp5fOjAUfp6Q&keyt=1448378421 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2 (B)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal3.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2 (C)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal4.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2 (D)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>rtmp://31.220.40.61/privatestreamplus/liga2d16?keys=ZRqBNsq1yLV_mVC6gI14kg&keyt=1448378457 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA 2 (D)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal5.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-liga-2.jpg</thumbnail>
+<fanart>http://www.1footballwallpaper.com/wp-content/uploads/Liga%20BBVA/Atletico%20de%20Madrid%20Wallpapers%2017.jpg</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL+ PARTIDAZO[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plus-partidazo.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://static.batanga.com/sites/default/files/tech.batanga.com/files/Siri-te-ayuda-a-mantenerte-al-tanto-de-los-resultados-del-futbol-2.jpg</fanart>
+<info>[B]Canal+ Partidazo te ofrece el mejor partido de la Liga BBVA y la Copa del Rey. Todo acompañado de los mejores programas deportivos [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL+ PARTIDAZO (EVENTOS)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://titosportstv.com/tv1.html</sportsdevil>
+<referer>http://titosportstv.com/</referer>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://static.batanga.com/sites/default/files/tech.batanga.com/files/Siri-te-ayuda-a-mantenerte-al-tanto-de-los-resultados-del-futbol-2.jpg</fanart>
+<info>[B]Canal+ Partidazo te ofrece el mejor partido de la Liga BBVA y la Copa del Rey. Todo acompañado de los mejores programas deportivos [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL+ PARTIDAZO[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://static.batanga.com/sites/default/files/tech.batanga.com/files/Siri-te-ayuda-a-mantenerte-al-tanto-de-los-resultados-del-futbol-2.jpg</fanart>
+<info>[B]Canal+ Partidazo te ofrece el mejor partido de la Liga BBVA y la Copa del Rey. Todo acompañado de los mejores programas deportivos [/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL+ PARTIDAZO[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Opción 3[/B][/COLOR]</title>
+<sportsdevil>http://tvenganchado.com/canalplus/partidazo.php</sportsdevil>
+<referer>http://tvenganchado.com</referer>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://static.batanga.com/sites/default/files/tech.batanga.com/files/Siri-te-ayuda-a-mantenerte-al-tanto-de-los-resultados-del-futbol-2.jpg</fanart>
+<info>[B]Canal+ Partidazo te ofrece el mejor partido de la Liga BBVA y la Copa del Rey. Todo acompañado de los mejores programas deportivos [/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL #0[/B][/COLOR] …•ˆ•.) [/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plus1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://i.vimeocdn.com/video/292270975_640.jpg</thumbnail>
+<fanart>http://i1260.photobucket.com/albums/ii565/danayalop/P1GETRMA26082012CHDTV720Pmkv_snapshot_0300_20120827_151401.png</fanart>
+<info>[B]Canal+ es una plataforma de pago de televisión por satélite, que opera en España a través de los satélites Astra e Hispasat[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL #0[/B][/COLOR] …•ˆ•.) [/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>https://i.vimeocdn.com/video/292270975_640.jpg</thumbnail>
+<fanart>http://i1260.photobucket.com/albums/ii565/danayalop/P1GETRMA26082012CHDTV720Pmkv_snapshot_0300_20120827_151401.png</fanart>
+<info>[B]Canal+ es una plataforma de pago de televisión por satélite, que opera en España a través de los satélites Astra e Hispasat[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]EUROSPORT HQ[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.vectorsland.com/imgd/l29333-eurosport-logo-84015.png</thumbnail>
+<fanart>https://s1.yimg.com/bt/api/res/1.2/8FV72sZCK3I758meLKrnOw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_GB/Sports/Eurosport/1316867-28330569-2560-1440.jpg</fanart>
+<info>[B]Eurosport es un canal de televisión europeo especializado en deporte, que se emite por satélite y cable. Está disponible en 59 países[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]EUROSPORT[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://verdirectotv.com/tv/deportes2/eurosport.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://lolo.md/tv/wp-content/uploads/eurosport-21.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal+ Estenos es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]MOTOS GP[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.scooterrace.eu/web_images/motogp_logo.png</thumbnail>
+<fanart>http://www.dailymotos.com/wp-content/uploads/2009/09/fim-firma-acuerdo-sportmania-c-deportes-tv3-cobertura-las-8-hrs-doha-126340918847721.jpg</fanart>
+<info>[B]MotoGP es la máxima categoría del Mundial de Motociclismo, considerado éste como el certamen internacional más importante en el ámbito de motociclismo[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]MOTOS GP[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=av7woklj9cf50c2 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>http://www.scooterrace.eu/web_images/motogp_logo.png</thumbnail>
+<fanart>http://www.dailymotos.com/wp-content/uploads/2009/09/fim-firma-acuerdo-sportmania-c-deportes-tv3-cobertura-las-8-hrs-doha-126340918847721.jpg</fanart>
+<info>[B]MotoGP es la máxima categoría del Mundial de Motociclismo, considerado éste como el certamen internacional más importante en el ámbito de motociclismo[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]MOTOS GP[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido F4M Tester[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1877.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.scooterrace.eu/web_images/motogp_logo.png</thumbnail>
+<fanart>http://www.dailymotos.com/wp-content/uploads/2009/09/fim-firma-acuerdo-sportmania-c-deportes-tv3-cobertura-las-8-hrs-doha-126340918847721.jpg</fanart>
+<info>[B]MotoGP es la máxima categoría del Mundial de Motociclismo, considerado éste como el certamen internacional más importante en el ámbito de motociclismo[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]MOTOS GP[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido F4M Tester op 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOS GP</link>
+<thumbnail>http://www.scooterrace.eu/web_images/motogp_logo.png</thumbnail>
+<fanart>http://www.dailymotos.com/wp-content/uploads/2009/09/fim-firma-acuerdo-sportmania-c-deportes-tv3-cobertura-las-8-hrs-doha-126340918847721.jpg</fanart>
+<info>[B]MotoGP es la máxima categoría del Mundial de Motociclismo, considerado éste como el certamen internacional más importante en el ámbito de motociclismo[/B] </info>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]MOTOS GP[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkturquoise][B]PLEXUS[/B][/COLOR] </title>
+<link>plugin://program.plexus/?url=60a47df84ee4d29bbf7fea200f6dd46f7330ec78&amp;mode=1&amp;name=BassFox+ MOTOS GP</link>
+<thumbnail>http://www.scooterrace.eu/web_images/motogp_logo.png</thumbnail>
+<fanart>http://www.dailymotos.com/wp-content/uploads/2009/09/fim-firma-acuerdo-sportmania-c-deportes-tv3-cobertura-las-8-hrs-doha-126340918847721.jpg</fanart>
+<info>[B]MotoGP es la máxima categoría del Mundial de Motociclismo, considerado éste como el certamen internacional más importante en el ámbito de motociclismo[/B] </info>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]MOTOS GP[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkturquoise][B]PLEXUS[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MOTOS GP - By BassFox</link>
+<regex>
+<name>hash</name>
+<expres>this.loadTorrent."(.*?)"<expres>                                          
+<page>http://torrent-tv.ru/torrent-online.php?translation=12227</page>
+<cookiejar></cookiejar>
+<referer>http://torrent-tv.ru/torrent-online.php?translation=12227</referer>
+</regex>
+</>6torrent73b62f7s3f2wx</>
+<thumbnail>http://www.scooterrace.eu/web_images/motogp_logo.png</thumbnail>
+<fanart>http://www.dailymotos.com/wp-content/uploads/2009/09/fim-firma-acuerdo-sportmania-c-deportes-tv3-cobertura-las-8-hrs-doha-126340918847721.jpg</fanart>
+<info>[B]MotoGP es la máxima categoría del Mundial de Motociclismo, considerado éste como el certamen internacional más importante en el ámbito de motociclismo[/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]FORMULA 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR] </title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/formula1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://i64.photobucket.com/albums/h182/sunfun_dc/formula_one_logo1.png</thumbnail>
+<fanart>http://ps3media.ign.com/ps3/image/article/734/734195/formula-one-06-20060921090942649.jpg</fanart>
+<info>[B] Fórmula1 Canal de producción propia de Movistar para seguir en directo todas las citas del campeonato, los entrenamientos libres y las sesiones de clasificación de Formula 1[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]FORMULA 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR] </title>
+<link>rtmp://www1.iguide.to/iguide playpath=38tj1wgh6wfqa6e swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>http://i64.photobucket.com/albums/h182/sunfun_dc/formula_one_logo1.png</thumbnail>
+<fanart>http://ps3media.ign.com/ps3/image/article/734/734195/formula-one-06-20060921090942649.jpg</fanart>
+<info>[B] Fórmula1 Canal de producción propia de Movistar para seguir en directo todas las citas del campeonato, los entrenamientos libres y las sesiones de clasificación de Formula 1[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]FORMULA 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido[/B][/COLOR] </title>
+<link>rtmp://www1.iguide.to/iguide playpath=kpfk285js6zoxea swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>http://i64.photobucket.com/albums/h182/sunfun_dc/formula_one_logo1.png</thumbnail>
+<fanart>http://ps3media.ign.com/ps3/image/article/734/734195/formula-one-06-20060921090942649.jpg</fanart>
+<info>[B] Fórmula1 Canal de producción propia de Movistar para seguir en directo todas las citas del campeonato, los entrenamientos libres y las sesiones de clasificación de Formula 1[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]FORMULA 1 HD[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Indefinido F4m Tester[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/1916.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i64.photobucket.com/albums/h182/sunfun_dc/formula_one_logo1.png</thumbnail>
+<fanart>http://ps3media.ign.com/ps3/image/article/734/734195/formula-one-06-20060921090942649.jpg</fanart>
+<info>[B] Fórmula1 Canal de producción propia de Movistar para seguir en directo todas las citas del campeonato, los entrenamientos libres y las sesiones de clasificación de Formula 1[/B] </info>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]FORMULA 1 HQ[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkturquoise][B]PLEXUS[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=FORMULA 1 - By BassFox</link>
+<regex>
+<name>hash</name>
+<expres>this.loadTorrent."(.*?)"<expres>                                          
+<page>http://torrent-tv.ru/torrent-online.php?translation=11642</page>
+<cookiejar></cookiejar>
+<referer>http://torrent-tv.ru/torrent-online.php?translation=11642</referer>
+</regex>
+</>6torrent73b62f7s3f2wx</>
+<thumbnail>http://i64.photobucket.com/albums/h182/sunfun_dc/formula_one_logo1.png</thumbnail>
+<fanart>http://ps3media.ign.com/ps3/image/article/734/734195/formula-one-06-20060921090942649.jpg</fanart>
+<info>[B] Fórmula1 Canal de producción propia de Movistar para seguir en directo todas las citas del campeonato, los entrenamientos libres y las sesiones de clasificación de Formula 1[/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL+ GOLF[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision1/plusgolf.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://www.todotele.com/wp-content/uploads/2011/02/canal-+-golf.jpg</thumbnail>
+<fanart>http://canales.opinionmalaga.com/turismo/wp-content/uploads/2010/06/golf.jpg</fanart>
+<info>[B]CANAL+ Golf te lleva a los campos del Grand Slam (Masters, Open Británico, Open USA y PGA), la Ryder Cup, el circuito americano y el europeo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL+ GOLF[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen]Indefinido[/COLOR]</title>
+<link>rtmp://31.220.0.187/privatestream/ playpath=golf8?keys=zmbsoAoFT1FtYVt66VzRSw&keyt;=1460720380 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=partidos965&width=800&height=600</link>
+<thumbnail>http://www.todotele.com/wp-content/uploads/2011/02/canal-+-golf.jpg</thumbnail>
+<fanart>http://canales.opinionmalaga.com/turismo/wp-content/uploads/2010/06/golf.jpg</fanart>
+<info>[B]CANAL+ Golf te lleva a los campos del Grand Slam (Masters, Open Británico, Open USA y PGA), la Ryder Cup, el circuito americano y el europeo [/B] </info>
+</item>
+
+<item> 
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL+ GOLF[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/france2/france2/1903.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.todotele.com/wp-content/uploads/2011/02/canal-+-golf.jpg</thumbnail>
+<fanart>http://canales.opinionmalaga.com/turismo/wp-content/uploads/2010/06/golf.jpg</fanart>
+<info>[B]CANAL+ Golf te lleva a los campos del Grand Slam (Masters, Open Británico, Open USA y PGA), la Ryder Cup, el circuito americano y el europeo [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]Barca TV[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Om;=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=partidos965&width=800&height=600</link>
+<thumbnail>http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg</thumbnail>
+<fanart>http://p1.pichost.me/i/66/1907820.jpg</fanart>
+<info>[B]Barça TV es un canal de televisión español, de ámbito internacional, dedicado al Fútbol Club Barcelona. Es el medio televisivo oficial del club.[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]REAL MADRID TV[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>http://www.defensacentral.com/userfiles/2013/Dec_27/real_madrid_tv_interior.jpg</thumbnail>
+<fanart>http://wallpaperspal.com/wp-content/uploads/Real-Madrid-CF-2015-First-XI-Football-Team-HD-Wallpaper.jpg</fanart>
+<info>[B]Real Madrid TV es un canal de televisión español, de ámbito internacional, propiedad del Real Madrid CF. Es el medio televisivo oficial del club y realiza la función de promover el conocimiento y difusión de la institución. [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL SEVILLA FC[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://flash0.80137-live0.dna.qbrick.com:1935/80137-live0/sevillafc/playlist.m3u8</link>
+<thumbnail>http://www.palanganas.com/media/galeria/52/4/1/0/5/n_sevilla_sevilla_fc_wallpapers-5265014.jpg</thumbnail>
+<fanart>http://api.ning.com/files/izUvQfqIetGY0-KJvLPRYqLRbmaO6d954zEArtoVCbxBBEE-667cjeITUcuaFGVcrZpE4A-qljSW0QxAYGqAiyBZAsdCsyIQ/bdamgpzo.jpg</fanart>
+<info>[B]Sevilla FC TV es un canal de televisión español, de ámbito internacional, propiedad del Sevilla FC. Es el medio televisivo oficial del club. [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL TOROS[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/toros.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
+<fanart>http://www.adslzone.tv/app/uploads/2012/05/Dibujo3-e1337193816190.jpg</fanart>
+<info>[B]Todas las grandes ferias están en directo y en exclusiva en CANAL+ Toros: Fallas, Abril, San Isidro, San Fermín y Bilbao. [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL TOROS[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Opción 2[/B][/COLOR]</title>
+<link>http://edge3.adnstream.com:81/hls/intereconomia.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
+<fanart>http://www.adslzone.tv/app/uploads/2012/05/Dibujo3-e1337193816190.jpg</fanart>
+<info>[B]Todas las grandes ferias están en directo y en exclusiva en CANAL+ Toros: Fallas, Abril, San Isidro, San Fermín y Bilbao. [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]TDP Teledeporte[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen]Solo en España o uso de VPN[/COLOR]</title>
+<link>http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8</link>
+<thumbnail>http://www.elsalpicadero.com/wp-content/uploads/2014/08/Logotipo_de_Teledeporte_tdp.svg_-620x400.jpg?</thumbnail>
+<fanart>http://img52.imageshack.us/img52/7885/14052011nadalgasquet1br.jpg</fanart>
+<info>[B]Teledeporte (TDP) es un canal deportivo de España propiedad de TVE, puesto en marcha en 1994 a través de Hispasat[/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]TDP Teledeporte[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen]Solo F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/848.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.elsalpicadero.com/wp-content/uploads/2014/08/Logotipo_de_Teledeporte_tdp.svg_-620x400.jpg?</thumbnail>
+<fanart>http://img52.imageshack.us/img52/7885/14052011nadalgasquet1br.jpg</fanart>
+<info>[B]Teledeporte (TDP) es un canal deportivo de España propiedad de TVE, puesto en marcha en 1994 a través de Hispasat[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]TDP Teledeporte[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR darkseagreen][B]Sportsdevil[/B][/COLOR] [COLOR lightseagreen]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision1/teledeporte.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.elsalpicadero.com/wp-content/uploads/2014/08/Logotipo_de_Teledeporte_tdp.svg_-620x400.jpg?</thumbnail>
+<fanart>http://img52.imageshack.us/img52/7885/14052011nadalgasquet1br.jpg</fanart>
+<info>[B]Teledeporte (TDP) es un canal deportivo de España propiedad de TVE, puesto en marcha en 1994 a través de Hispasat[/B] </info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]SPORTMANIA[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[rtmp] playpath=tvb105  swfUrl=http://rdmcast.com/player.swf pageUrl=http://rdmcast.com/player.swf token=$doregex[tok] live=true timeout=15</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer', '(.*?)'</expres>
+<page>http://rdmcast.com/embed.php?a=84&id=&width=670&height=400&autostart=true&strech=</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file', '(.*?)'</expres>
+<page>http://rdmcast.com/embed.php?a=84&id=&width=670&height=400&autostart=true&strech=</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token', '(.*?)'</expres>
+<page>http://rdmcast.com/embed.php?a=84&id=&width=670&height=400&autostart=true&strech=</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<thumbnail>http://www.alesli.esy.es/LOGOS%20SERVIIO/sportmania.png</thumbnail>
+<fanart>http://i.imgur.com/MZeLwyT.jpg</fanart>
+<info>[B]Sportmanía es un canal temático español de deportes participado por Prisa TV[/B] </info>
+</regex>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + FUTBOL[/B][/COLOR] …•ˆ•.)[/COLOR] Por ahora no funciona </title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&amp;kpublica=29245 pageUrl=http://1broadcastlive.com/ live=true timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer=(.*?)&amp;str</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv7&w=580&h=380</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=(.*?)&</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv7&w=580&h=380</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-bPUp4C6_gZ0/UaI18ip_WfI/AAAAAAAAEV0/avDle93bvU0/s320/LOGO-CANAL+-F%C3%9ATBOL-HD.jpg</thumbnail>
+<fanart>http://diesl.com/wp-content/uploads/2012/08/futbol-liga-bbva-gol-t.png</fanart>
+<info>[B]Todo el futbol,una programacion exclusiva dirigida al mejor deporte del mundo [/B] </info>
+</item>
+
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + DEPORTE[/B][/COLOR] …•ˆ•.)[/COLOR]Por ahora no funciona  </title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&amp;kpublica=29245 pageUrl=http://1broadcastlive.com/ live=true timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer=(.*?)&amp;str</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv2&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=(.*?)&</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv2&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<thumbnail>http://www.vootar.com/imgs/elementos/1380541668_CanalDeportes.jpg</thumbnail>
+<fanart>http://diesl.com/wp-content/uploads/2012/08/futbol-liga-bbva-gol-t.png</fanart>
+<info>[B]Canal+ Deportes es un canal de televisión español de pago, propiedad de Telefónica y disponible exclusivamente a través de Canal+[/B]</info>
+</item>
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA [/B][/COLOR] …•ˆ•.)[/COLOR]Por ahora no funciona </title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&amp;kpublica=29245 pageUrl=http://1broadcastlive.com/ live=true timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer=(.*?)&amp;str</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv4&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=(.*?)&</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv4&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<thumbnail>http://www.rojadirectaa.com/wp-content/uploads/2014/12/Canal-Plus-La-Liga-Online-Por-Internet.jpg</thumbnail>
+<fanart>http://diesl.com/wp-content/uploads/2012/08/futbol-liga-bbva-gol-t.png</fanart>
+<info>[B] 8 partidos de liga y la mejor programacion dedicada al futbol[/B] </info>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + LIGA DE CAMPEONES [/B][/COLOR] …•ˆ•.)[/COLOR]Por ahora no funciona </title>
+<link>$doregex[rtmp] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://free.tvcast.pw/player.swf pageUrl=http://rdmcast.com live=1 timeout=15</link>
+<regex>
+<name>rtmp</name>
+<expres>'streamer', '(.*?)'</expres>
+<page>http://rdmcast.com/embed.php?a=82</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file', '(.*?)'</expres>
+<page>http://rdmcast.com/embed.php?a=82</page>
+</regex>
+<regex>
+<name>tok</name>
+<expres>'token', '(.*?)'</expres>
+<page>http://rdmcast.com/embed.php?a=82</page>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/2/23/Canal_plus_liga_campeones.png</thumbnail>
+<fanart>http://img.vayatele.com/2012/09/canalplus-ligacampeones.jpg</fanart>
+<info>[B] Canal+ Liga de Campeones es un canal de televisión español de pago, propiedad de Telefónica, dedicado exclusivamente al fútbol y en especial a la UEFA[/B] </info>
+</item>
+
+	
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]GOLT [/B][/COLOR] …•ˆ•.)[/COLOR]Por ahora no funciona </title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&amp;kpublica=29245 pageUrl=http://1broadcastlive.com/ live=true timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer=(.*?)&amp;str</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv1&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=(.*?)&</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv1&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<thumbnail>http://casaapuestasdeportivas.com/wp-content/uploads/2015/04/gol-tv-gratis.png</thumbnail>
+<fanart>http://www.tecnologiadetuatu.elcorteingles.es/wp-content/uploads/2012/08/golt1.jpg</fanart>
+<info>[B]Gol Televisión (Gol T) es un canal de televisión español de pago, propiedad de Mediapro, que emite exclusivamente en la TDT de España [/B] </info>
+</item>
+
+
+
+
+
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]EUROSPORTS 1 (ESP)[/B][/COLOR] …•ˆ•.)[/COLOR]Por ahora no funciona </title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&amp;kpublica=29245 pageUrl=http://1broadcastlive.com/ live=true timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer=(.*?)&amp;str</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv6&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=(.*?)&</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv6&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<thumbnail>http://www.vectorsland.com/imgd/l29333-eurosport-logo-84015.png</thumbnail>
+<fanart>https://s1.yimg.com/bt/api/res/1.2/8FV72sZCK3I758meLKrnOw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_GB/Sports/Eurosport/1316867-28330569-2560-1440.jpg</fanart>
+<info>[B]Eurosport es un canal de televisión europeo especializado en deporte, que se emite por satélite y cable. Está disponible en 59 países[/B] </info>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]MOTOS GP[/B][/COLOR] …•ˆ•.)[/COLOR]Por ahora no funciona </title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&amp;kpublica=29245 pageUrl=http://1broadcastlive.com/ live=true timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer=(.*?)&amp;str</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv10a&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=(.*?)&</expres>
+<page>http://1broadcastlive.com/embed/camb_emb.php?channel=kasimirotv10a&w=670&h=400</page>
+<referer>http://streamingfreetv.net/</referer>
+</regex>
+<thumbnail>http://www.scooterrace.eu/web_images/motogp_logo.png</thumbnail>
+<fanart>http://www.dailymotos.com/wp-content/uploads/2009/09/fim-firma-acuerdo-sportmania-c-deportes-tv3-cobertura-las-8-hrs-doha-126340918847721.jpg</fanart>
+<info>[B]Teledeporte (TDP) es un canal deportivo de España propiedad de TVE, puesto en marcha en 1994 a través de Hispasat[/B] </info>
+</item>
+
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]E ENERGY[/B][/COLOR] …•ˆ•.)[/COLOR] Por ahora no funciona </title>
+<link>$doregex[rtmp] playpath=energyy  swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>"file.*(rtmp[^&]*)</expres>
+<page>http://privado.streamingfreetv.net/embed/embed.php?channel=energyy</page>
+<referer>http://streamingfreetv.net</referer>
+</regex>
+<thumbnail>http://dj-josemix.tuars.com/fotoespa%C3%B1a/energy.png</thumbnail>
+<fanart>http://telecincostatic-a.akamaihd.net/deportes/Mediaset_Espana-Formula_E-Gonzalo_Serrano_MDSIMA20140911_0153_35.jpg</fanart>
+<info>[B]Energy es un canal de televisión privado español, que pertenece al Grupo Mediaset España y cuya programación está dirigida a un público masculino[/B] </info>
+</item>
+	
+
+item>
+<title>[COLOR=CFF106246](.•ˆ•… [COLOR=FF1CB619][B]CANAL + TOROS[/B][/COLOR] …•ˆ•.)[/COLOR]Por ahora no funciona  </title>
+<link>$doregex[rtmp] playpath=toros  swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php pageUrl=http://privado.streamingfreetv.net live=1 timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>"file.*(rtmp[^&]*)</expres>
+<page>http://privado.streamingfreetv.net/embed/embed.php?channel=toros</page>
+<referer>http://streamingfreetv.net</referer>
+<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
+</regex>
+<fanart>http://www.adslzone.tv/app/uploads/2012/05/Dibujo3-e1337193816190.jpg</fanart>
+<info>[B]Todas las grandes ferias están en directo y en exclusiva en CANAL+ Toros: Fallas, Abril, San Isidro, San Fermín y Bilbao. [/B] </info>
+</item>
+	
+item>
+<title>testtttt</title>
+<link>https://dl.dropbox.com/s/4qv4hskbz66a5ue/Creed%20-%20Official%20Trailer%202%20%5BHD%5D%20-%20YouTube.MKV</link>
+</item>
+
+
+	
+	
+	
+	
+	<fanart></fanart>
+<info>[B] [/B] </info>

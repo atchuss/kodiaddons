@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>libreria</id>
+	<name>Biblioteca</name>
+
+	<active>false</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail></thumbnail>
+	<bannermenu></bannermenu>
+
+	<update_url>https://raw.githubusercontent.com/tvalacarta/pelisalacarta/master/python/main-classic/channels/</update_url>
+	<version>3</version>
+
+
+	<changes>
+		<change>
+			<date>01/07/16</date>
+			<autor>SeiTaN</autor>
+			<description>Eliminado código innecesario.</description>
+		</change>
+		<change>
+			<date>10/05/16</date>
+			<autor>super_berny</autor>
+			<description></description>
+		</change>
+		<change>
+			<date>30/04/2016</date>
+			<autor>Seitan</autor>
+			<description>Version inicial</description>
+		</change>
+	</changes>
+
+	<include_in_global_search>disabled</include_in_global_search>
+</channel>

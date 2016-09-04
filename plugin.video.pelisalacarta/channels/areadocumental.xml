@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>areadocumental</id>
+	<name>Area-Documental</name>
+	<language>es</language>
+	<update_url></update_url>
+	<active>true</active>
+	<include_in_global_search>true</include_in_global_search>
+	<version>2</version>
+	<adult>false</adult>
+	<date>01/07/2016</date>
+	<changes>Eliminado código innecesario.</changes>
+	<fanart></fanart>
+	<bannermenu>http://media.tvalacarta.info/pelisalacarta/bannermenu/areadocumental.png</bannermenu>
+	<thumbnail>http://media.tvalacarta.info/pelisalacarta/squares/areadocumental.png</thumbnail>
+	<categories>
+		<category>documentary</category>
+	</categories>
+</channel>

@@ -1,0 +1,323 @@
+<items>
+
+<items_info> <!-- this is opitonal -->
+  <title>freeworld</title> 
+  <genre>Tv Live</genre>
+  <description>golden addon</description>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <date>28.09.2015</date>
+  <credits>freemedia</credits>
+</items_info>
+	
+<item>
+  <title>[COLOR lime]N E T F L I X[/COLOR] </title>
+  <link>http://bit.ly/deadpooladdon</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <externallink>http://legionworldtv.com/list/seriesymas.txt</externallink>
+</item>
+
+<item>
+  <title>[COLOR lime]C A T E G O R I A S[/COLOR]</title>
+  <link>http://bit.ly/deadpooladdon</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <externallink>http://legionworldtv.com/list/catalogo.txt</externallink>
+</item>
+
+<item>
+  <title>[COLOR lime] S E R I E S  C L A S S I C[/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <regex>
+    <name>makelist2</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue]  •[/COLOR][COLOR orange][makelist2.param2][/COLOR]</title>
+      <link>$doregex[makelist]</link>
+      <thumbnail>[makelist2.param3]</thumbnail>
+    ]]></listrepeat>
+    <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+    <page>http://diskokosmiko.mx/naredo</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+      <title> [makelist.param3]</title>
+      <link>$doregex[getUrl]</link>
+    ]]></listrepeat>
+    <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+    <page>http://diskokosmiko.mx[makelist2.param1]/list,1,15</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>getUrl</name>
+    <expres>DownloadUrl":"([^"]+)<expres>
+    <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+    <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+    <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+    <connection>keep-alive</connection>
+    <accept>*/*</accept>
+    <X-Req>XMLHttpRequest</X-Req>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>tok</name>
+    <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+    <page>http://diskokosmiko.mx/[makelist.param2]</page>
+    <referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
+    <connection>keep-alive</connection>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR] C A T E G O R Y  S E R V E R 1[/COLOR] </title>
+  <link>$doregex[makelist2]</link>
+  <regex>
+    <name>makelist2</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue][makelist2.param2][/COLOR]</title>
+      <link>$doregex[makelist]</link>
+      <thumbnail>[makelist2.param3]</thumbnail>
+    ]]></listrepeat>
+    <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+    <page>http://copiapop.com/oscuridad</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+      <title> [makelist.param3]</title>
+      <link>$doregex[getUrl]</link>
+    ]]></listrepeat>
+    <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+    <page>http://copiapop.com[makelist2.param1]/list,1,15</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>getUrl</name>
+    <expres>DownloadUrl":"([^"]+)<expres>
+    <page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+    <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+    <referer>http://copiapop.com/[makelist.param2]</referer>
+    <connection>keep-alive</connection>
+    <accept>*/*</accept>
+    <X-Req>XMLHttpRequest</X-Req>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>tok</name>
+    <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+    <page>http://copiapop.com/[makelist.param2]</page>
+    <referer>http://copiapop.com[makelist2.param1]/list,1,15</referer>
+    <connection>keep-alive</connection>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+
+
+
+<item>
+  <title>[COLOR blue]C A T E G O R Y  S E R V E R 2[/COLOR] </title>
+  <link>$doregex[makelist2]</link>
+  <regex>
+    <name>makelist2</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue][/COLOR][makelist2.param2][/COLOR]</title>
+      <link>$doregex[makelist]</link>
+      <thumbnail>[makelist2.param3]</thumbnail>
+      ]]></listrepeat>
+  <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+  <page>http://copiapop.com/pony</page>
+  <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+      <title> [makelist.param3]</title>
+      <link>$doregex[getUrl]</link>
+      ]]></listrepeat>
+    <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+    <page>http://copiapop.com[makelist2.param1]/list,1,15</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>getUrl</name>
+    <expres>DownloadUrl":"([^"]+)<expres>
+    <page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+    <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+    <referer>http://copiapop.com/[makelist.param2]</referer>
+    <connection>keep-alive</connection>
+    <accept>*/*</accept>
+    <X-Req>XMLHttpRequest</X-Req>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>tok</name>
+    <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+    <page>http://copiapop.com/[makelist.param2]</page>
+    <referer>http://copiapop.com[makelist2.param1]/list,1,15</referer>
+    <connection>keep-alive</connection>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR blue] C A T E G O R Y  S E R V E R 3[/COLOR] </title>
+  <link>$doregex[makelist2]</link>
+  <regex>
+    <name>makelist2</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue][/COLOR[makelist2.param2][/COLOR]</title>
+      <link>$doregex[makelist]</link>
+      <thumbnail>[makelist2.param3]</thumbnail>
+    ]]></listrepeat>
+    <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+    <page>http://copiapop.com/JOE221277</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+      <title> [makelist.param3]</title>
+      <link>$doregex[getUrl]</link>
+    ]]></listrepeat>
+    <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+    <page>http://copiapop.com[makelist2.param1]/list,1,15</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>getUrl</name>
+    <expres>DownloadUrl":"([^"]+)<expres>
+    <page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+    <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+    <referer>http://copiapop.com/[makelist.param2]</referer>
+    <connection>keep-alive</connection>
+    <accept>*/*</accept>
+    <X-Req>XMLHttpRequest</X-Req>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>tok</name>
+    <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+    <page>http://copiapop.com/[makelist.param2]</page>
+    <referer>http://copiapop.com[makelist2.param1]/list,1,15</referer>
+    <connection>keep-alive</connection>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR blue] C A T E G O R Y  S E R V E R 4[/COLOR] </title>
+  <link>$doregex[makelist2]</link>
+  <regex>
+    <name>makelist2</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue][/COLOR][makelist2.param2][/COLOR]</title>
+      <link>$doregex[makelist]</link>
+      <thumbnail>[makelist2.param3]</thumbnail>
+    ]]></listrepeat>
+    <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+    <page>http://copiapop.com/Koba1994</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+      <title> [makelist.param3]</title>
+      <link>$doregex[getUrl]</link>
+    ]]></listrepeat>
+    <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+    <page>http://copiapop.com[makelist2.param1]/list,1,15</page>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>getUrl</name>
+    <expres>DownloadUrl":"([^"]+)<expres>
+    <page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+    <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+    <referer>http://copiapop.com/[makelist.param2]</referer>
+    <connection>keep-alive</connection>
+    <accept>*/*</accept>
+    <X-Req>XMLHttpRequest</X-Req>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>tok</name>
+    <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+    <page>http://copiapop.com/[makelist.param2]</page>
+    <referer>http://copiapop.com[makelist2.param1]/list,1,15</referer>
+    <connection>keep-alive</connection>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR blue] O R I G I N A L  L E N G U A J E[/COLOR] </title>
+  <link>$doregex[makelist3]</link>
+  <regex>
+    <name>makelist3</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue][/COLOR] [makelist3.param2] [/COLOR] </title>
+      <link>$doregex[makelist2]</link>
+    ]]></listrepeat>
+    <expres>href="(.*?)">(.*?)<</expres>
+    <page>http://dl.tehmovies.com/94/series/</page>
+    <referer></referer>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist2</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue][/COLOR] [makelist2.param2] [/COLOR] </title>
+      <link>$doregex[makelist]</link>
+    ]]></listrepeat>
+    <expres>href="(.*?)">(.*?)<</expres>
+    <page>http://dl.tehmovies.com/94/series/[makelist3.param1]</page>
+    <referer></referer>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR lightblue] [makelist.param2] [/COLOR] </title>
+      <link>http://dl.tehmovies.com/94/series/[makelist3.param1][makelist2.param2][makelist.param1]</link>
+    ]]></listrepeat>
+    <expres>href="(.*?)">(.*?)<</expres>
+    <page>http://dl.tehmovies.com/94/series/[makelist3.param1][makelist2.param2]</page>
+    <referer></referer>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR blue] O R I G I N A L  L E N G U A J E[/COLOR] </title>
+  <link>$doregex[makelist2]</link>
+  <regex>
+    <name>makelist2</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR blue][/COLOR] [makelist2.param2] [/COLOR] </title>
+      <link>$doregex[makelist]</link>
+    ]]></listrepeat>
+    <expres>href="(.*?)/">(.*?)/<</expres>
+    <page>http://cdn.serieswatch.tv/2/</page>
+    <referer></referer>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+      <title>[COLOR lightblue] [makelist.param2] [/COLOR] </title>
+      <link>http://cdn.serieswatch.tv/2/[makelist2.param1]/[makelist.param1]</link>
+    ]]></listrepeat>
+    <expres>href="(.*?)">(.*?)<</expres>
+    <page>http://cdn.serieswatch.tv/2/[makelist2.param1]/</page>
+    <referer></referer>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+</items>
+

@@ -1,0 +1,13 @@
+﻿<settings>
+  <category label="BassFox Addon">
+    <setting id="Updatecommonresolvers" label="Update Commonresolver from Genesis" type="bool" default="true" visible="false"/>
+	<setting type="lsep" label="[COLOR dimgray]»–––––––ooO-[/COLOR](•(-•(-•( Actualización - Update 25/02/2016 )•-)•)•-)•[COLOR dimgray]Ooo––––-–––––––»[/COLOR]" option="close" action="RunPlugin(plugin://plugin.video.bassfox/?mode=7)" />
+        <setting type="lsep" label="[COLOR dimgray]»––––[/COLOR]•(-•( Gracias por tu Preferencia - Thank you for your preference )•-)•[COLOR dimgray]––––»[/COLOR]" option="close" action="RunPlugin(plugin://plugin.video.bassfox/?mode=7)" />
+        <setting id="ask_playlist_items" type="bool" label="[COLOR mediumturquoise]Ask playlist items to choose from dialog[/COLOR] [COLOR cyan] (Activado por default Elegir Fuente de Video)[/COLOR]" default="true" />
+        <setting id="add_playlist" type="bool" label="[COLOR mediumturquoise]Add items with multiple links as play lists[/COLOR]  [COLOR cyan](Activado por default Multilink)[/COLOR]" default="true"/>
+        <setting id="parentalblockedpin" label="[COLOR mediumturquoise]Parental Block Pin[/COLOR]  [COLOR cyan](Activar Pin Control Parental)[/COLOR]" type="text"  option="hidden"  default=""/>
+        <setting id="parentalblocked" label="[COLOR mediumturquoise]Is Parental Blocked Applied?[/COLOR]" type="bool" default="false" enable="false"/>
+        <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="[COLOR mediumturquoise]Play IMDBid with:[/COLOR]" default="Genesis"/>
+        </category>
+
+</settings>

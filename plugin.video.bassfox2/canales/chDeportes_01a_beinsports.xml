@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B][/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://www.streamlive.to/embedplayer_new2.php?channel=53681</sportsdevil>
+  <referer>http://www.streamlive.to</referer>
+  <thumbnail>http://4.bp.blogspot.com/-UTtKq3Y9bHA/VQso-GTY0-I/AAAAAAAAEs4/5JpUoWjBe4w/s1600/BeiN-Sport-En-Vivo-Online.jpeg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>
+
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B] Español[/COLOR]</title>
+  <link>$doregex[url]</link>
+  <regex>
+    <name>url</name>
+    <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53681',False,False,'http://vipracing.us/')</expres>
+    <page></page>
+  </regex>
+  <thumbnail>http://4.bp.blogspot.com/-UTtKq3Y9bHA/VQso-GTY0-I/AAAAAAAAEs4/5JpUoWjBe4w/s1600/BeiN-Sport-En-Vivo-Online.jpeg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>
+                                         
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B] Español[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://vipracing.info/channel/bein-es1</sportsdevil>
+  <referer>http://vipracing.info</referer> 
+  <thumbnail>http://4.bp.blogspot.com/-UTtKq3Y9bHA/VQso-GTY0-I/AAAAAAAAEs4/5JpUoWjBe4w/s1600/BeiN-Sport-En-Vivo-Online.jpeg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>
+                                    
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B] Español[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://vipracing.info/channel/bein-es</sportsdevil>
+  <referer>http://vipracing.info</referer> 
+  <thumbnail>https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>                                                                                    
+
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B] Español[/COLOR] [COLOR khaki](Pirlo)[/COLOR]</title>
+  <link>http://$doregex[ip]$doregex[m3u8]</link>
+  <regex>
+    <name>ip</name>
+    <expres>redirect=(.*)</expres>
+    <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+  </regex>
+  <regex>
+    <name>m3u8</name>
+    <expres>ea \+ "(.*?)"</expres>
+    <page>http://www.mips.tv/membedplayer/$doregex[canal]/1/500/400</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mips.tv</referer>
+  </regex>
+  <regex>
+    <name>canal</name>
+    <expres>channel='(.*?)'</expres>
+    <page>http://www.tvonlinegratis.mobi/embed/bein.html</page>
+    <referer>http://www.mips.tv</referer>
+  </regex>  
+  <thumbnail>http://4.bp.blogspot.com/-UTtKq3Y9bHA/VQso-GTY0-I/AAAAAAAAEs4/5JpUoWjBe4w/s1600/BeiN-Sport-En-Vivo-Online.jpeg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>
+
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B] España[/COLOR]</title>
+  <link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+  <thumbnail>https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item> 
+
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B] España[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://cinestrenostv.tv/canales/envivo/beinsport.html</sportsdevil>
+  <referer>http://cinestrenostv.tv</referer>
+  <thumbnail>https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>
+
+<item>
+  <title>[COLOR=gold][B]BEIN Ñ SPORT[/B] España[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://vercanalestv.com/tv/deportes/bein-sport-2.html</sportsdevil>
+  <referer>http://vercanalestv.com</referer>
+  <thumbnail>https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>	
+
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] USA[/COLOR]</title>
+  <link>$doregex[select_Url]</link>
+  <regex>
+    <name>select_Url</name>
+    <expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>get_sxstream</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <regex>
+    <name>get_sxstream1</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <thumbnail>https://pbs.twimg.com/profile_images/514524533751951360/T_CWlJna.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>
+                
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] USA[/COLOR]</title>
+  <link>$doregex[select_Url]</link>
+  <regex>
+    <name>select_Url</name>
+    <expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>get_sxstream</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports12.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <regex>
+    <name>get_sxstream1</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports12.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+    <thumbnail>https://pbs.twimg.com/profile_images/514524533751951360/T_CWlJna.png</thumbnail>
+    <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  </regex>
+  <thumbnail>https://pbs.twimg.com/profile_images/516669184445407233/4_T1-FIo.jpeg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Estados Unidos el 15 de agosto de 2012, a través de sus dos canales: "beIN Sports" (en inglés) y "beIN-ñ Sports" (en español)[/B]</info>
+</item>
+
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] France 1[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://mamahd.com/live/watch-bein-1-france-live-stream-1.html</sportsdevil>
+  <referer>http://mamahd.com</referer>
+  <thumbnail>http://varzeshitv.ir/ax/logo/beIN_Sports_France.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Francia el 1 de junio de 2012, a través del canal "beIN Sports 1", con la retransmisión de la Eurocopa 2012. El segundo canal "beIN Sports 2", comenzó a emitir el 27 de julio, antes del comienzo de la temporada 2012/13 de la Ligue 1 y la Ligue 2.[/B]</info>
+</item>
+                      
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] France 1[/COLOR]</title>
+  <link>$doregex[select_Url]</link>
+  <regex>
+    <name>select_Url</name>
+    <expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>get_sxstream</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports1france.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <regex>
+    <name>get_sxstream1</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports1france.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <thumbnail>http://varzeshitv.ir/ax/logo/beIN_Sports_France.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Francia el 1 de junio de 2012, a través del canal "beIN Sports 1", con la retransmisión de la Eurocopa 2012. El segundo canal "beIN Sports 2", comenzó a emitir el 27 de julio, antes del comienzo de la temporada 2012/13 de la Ligue 1 y la Ligue 2.[/B]</info>
+</item>
+
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] France 2[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://mamahd.com/live/watch-bein-2-france-live-stream-1.html</sportsdevil>
+  <referer>http://mamahd.com</referer>
+  <thumbnail>http://varzeshitv.ir/ax/logo/beIN_Sports_France.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Francia el 1 de junio de 2012, a través del canal "beIN Sports 1", con la retransmisión de la Eurocopa 2012. El segundo canal "beIN Sports 2", comenzó a emitir el 27 de julio, antes del comienzo de la temporada 2012/13 de la Ligue 1 y la Ligue 2.[/B]</info>
+</item>
+
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] France 2[/COLOR]</title>
+  <link>$doregex[select_Url]</link>
+  <regex>
+    <name>select_Url</name>
+    <expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>get_sxstream</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports2france.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <regex>
+    <name>get_sxstream1</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports2france.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <thumbnail>http://varzeshitv.ir/ax/logo/beIN_Sports_France.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Francia el 1 de junio de 2012, a través del canal "beIN Sports 1", con la retransmisión de la Eurocopa 2012. El segundo canal "beIN Sports 2", comenzó a emitir el 27 de julio, antes del comienzo de la temporada 2012/13 de la Ligue 1 y la Ligue 2.[/B]</info>
+</item>
+                                                    
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] France 3[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://showsport-tv.com/watch/bein-sport-3-france-live-stream</sportsdevil>
+  <referer>http://showsport-tv.com</referer>
+  <thumbnail>http://varzeshitv.ir/ax/logo/beIN_Sports_France.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Francia el 1 de junio de 2012, a través del canal "beIN Sports 1", con la retransmisión de la Eurocopa 2012. El segundo canal "beIN Sports 2", comenzó a emitir el 27 de julio, antes del comienzo de la temporada 2012/13 de la Ligue 1 y la Ligue 2.[/B]</info>
+</item>
+                           
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] France 3[/COLOR]</title>
+  <link>$doregex[select_Url]</link>
+  <regex>
+    <name>select_Url</name>
+    <expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+    <page></page>
+  </regex>
+  <regex>
+    <name>get_sxstream</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <regex>
+    <name>get_sxstream1</name>
+    <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+    <page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page>
+    <referer>http://www.liveonlinetv247.info/</referer>
+    <agent></agent>
+  </regex>
+  <thumbnail>http://varzeshitv.ir/ax/logo/beIN_Sports_France.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]La cadena beIN Sports comenzó a emitir en Francia el 1 de junio de 2012, a través del canal "beIN Sports 1", con la retransmisión de la Eurocopa 2012. El segundo canal "beIN Sports 2", comenzó a emitir el 27 de julio, antes del comienzo de la temporada 2012/13 de la Ligue 1 y la Ligue 2.[/B]</info>
+</item>			   
+                           
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] Árabe 1[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://showsport-tv.com/tv/bein-sport-1</sportsdevil>
+  <referer>http://showsport-tv.com</referer>
+  <thumbnail>http://3.bp.blogspot.com/-0jSHXWvdVec/VAz5CZaqxlI/AAAAAAAACCQ/0ppCYPuE4OM/s1600/bein%2B1.png</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+</item>
+
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] Árabe 2[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://tvtoss.com/channel-frames/beIN%20Sport%202%20HD/bein_sport_2_hd_server-1.php</sportsdevil>
+  <referer>http://tvtoss.com/</referer>
+  <thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-hd2-live-regarder-bein-sport-hd-2-en-direct-gratuit-11329736.jpg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+</item>
+  
+<item>
+  <title>[COLOR=gold][B]BEIN SPORT[/B] Árabe 2[/COLOR] [COLOR khaki](Sportsdevil)[/COLOR]</title>
+  <sportsdevil>http://showsport-tv.com/tv/bein-sport-2</sportsdevil>
+  <referer>http://showsport-tv.com</referer>
+  <thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-hd2-live-regarder-bein-sport-hd-2-en-direct-gratuit-11329736.jpg</thumbnail>
+  <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+  <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+</item>
+
+<item>
+          <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 3 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+                  <sportsdevil>http://showsport-tv.com/tv/bein-sport-3</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>https://kodigeek.shost.ca/IPTV/Logos/BEIN-SPORTS-3.SD.png</thumbnail>
+          <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+               <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+                                      
+                    <item>
+           <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 4 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+                  <sportsdevil>http://showsport-tv.com/tv/bein-sport-4</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://1.bp.blogspot.com/-VZlO2CSGvEM/VdDYY0a0i6I/AAAAAAAAAzU/ghm323aslR4/s1600/bein%2Bsport%2B4%2Bhd.jpg</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+                         
+                     <item>
+          <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 5 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+<sportsdevil>http://showsport-tv.com/tv/bein-sport-5</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://bein-tv.com/wp-content/uploads/2014/05/bein5.jpg</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+                           
+
+                     <item>
+         <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 6 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+                  <sportsdevil>http://showsport-tv.com/tv/bein-sport-6</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://247-365.ir/wp-content/pic/sport_tv_logo/bs-sd6.jpg</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+                           
+
+                       <item>
+         <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 7 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+                  <sportsdevil>http://showsport-tv.com/tv/bein-sport-7</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://2.bp.blogspot.com/-yBw8amWCOnY/VQOmjIfGkxI/AAAAAAAAEXg/rrvlbnEgehY/s1600/bein%2Bsport%2B7hd.png</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+                           
+
+                    
+                   <item>
+         <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 8 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+                  <sportsdevil>http://showsport-tv.com/tv/bein-sport-8</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://img3.wikia.nocookie.net/__cb20140414171216/logopedia/images/0/09/Bein_8.png</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+
+ 
+ <item>
+         <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 9 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+                  <sportsdevil>http://showsport-tv.com/tv/bein-sport-9</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://img3.wikia.nocookie.net/__cb20140414171216/logopedia/images/0/09/Bein_8.png</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+                           
+                           <item>
+         <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white] 10 ARABE[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR]</title>
+                  <sportsdevil>http://showsport-tv.com/tv/bein-sport-10</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://img3.wikia.nocookie.net/__cb20140414171216/logopedia/images/0/09/Bein_8.png</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+                           
+                                                <item>http://showsport-tv.com/tv/bein-sport-11
+                 <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN[/COLOR][COLOR=violet] SPORT[COLOR=white][COLOR=white]12[/COLOR][/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]*Sportsdevil*[/COLOR] </title>
+                 <sportsdevil>http://showsport-tv.com/tv/bein-sport-12</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+		          <thumbnail>http://parsiup.com/upload/xawl_12_-_cr7-cronaldo.blogfa.com.jpg</thumbnail>
+                <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+                <info>[B]Bein Sports Arabia es un canal de deportes en lengua árabe lanzado en noviembre de 2003 por la conocida red catarí Al Jazeera[/B]</info>
+			   </item>
+
+
+			   
+	            <item>
+		        <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN SPORT 1[/COLOR][/B] …•ˆ•.)[/COLOR][COLOR red]USEE TV[/COLOR]</title>
+                 <link>>http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8</link>
+		          <thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png</thumbnail>
+               <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+               <info>[B]Bein Sports (estilizado beIN Sports) es una cadena de televisión de pago, presente en varios países, filial del grupo catarí Al Jazeera, dedicada a la retransmisión de eventos deportivos.[/B]</info>
+			   </item>
+			   
+			   
+	            <item>
+		        <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN SPORT 2 [/COLOR][/B] …•ˆ•.)[/COLOR][COLOR red]USEE TV[/COLOR]</title>
+                 <link>http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8</link>
+		          <thumbnail>http://tv-en-streaming.com/wp-content/uploads/2012/12/bein2.png</thumbnail>
+               <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+               <info>[B]Bein Sports (estilizado beIN Sports) es una cadena de televisión de pago, presente en varios países, filial del grupo catarí Al Jazeera, dedicada a la retransmisión de eventos deportivos.[/B]</info>
+			   </item>
+			   
+			   
+	            <item>
+		        <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN SPORT 3 [/COLOR][/B] …•ˆ•.)[/COLOR][COLOR red]USEE TV[/COLOR]</title>
+                 <link>http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8</link>
+		          <thumbnail>http://3.bp.blogspot.com/-I56U3a-u6cU/U_uqWMMDA2I/AAAAAAAAEeI/oCodiXScOJg/s1600/bein%2B2hd.png</thumbnail>
+               <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+               <info>[B]Bein Sports (estilizado beIN Sports) es una cadena de televisión de pago, presente en varios países, filial del grupo catarí Al Jazeera, dedicada a la retransmisión de eventos deportivos.[/B]</info>
+			   </item>
+			   
+			   
+	            <item>
+		        <title>[COLOR=violet](.•ˆ•… [COLOR=white][B]BEIN SPORT PREMIER[/COLOR][/B] …•ˆ•.)[/COLOR][COLOR red]USEE TV[/COLOR]</title>
+                 <link>http://180.250.29.22:80/jhos/beib4_4/playlist.m3u8</link>
+		          <thumbnail>http://www.transplanet.fr/image/OPBEIN.jpg</thumbnail>
+               <fanart>http://www.mktesportivo.com/wp-content/uploads/2015/07/bein-mls5.jpg</fanart>
+               <info>[B]Bein Sports (estilizado beIN Sports) es una cadena de televisión de pago, presente en varios países, filial del grupo catarí Al Jazeera, dedicada a la retransmisión de eventos deportivos.[/B]</info>
+			   </item>
+			   
+			   
+		   
+#------------------------
+                 

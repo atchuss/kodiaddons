@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+  <channel>
+    <name>[COLOR=lime][B].[/B][/COLOR][COLOR=blue][B]W E L C O M E   TO   G O L D E N   C O W B O Y S   E D I T I O N[/B][/COLOR][COLOR=lime][B].[/B][/COLOR]</name>
+    <thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+    <fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://ignoreme</externallink>
+  </channel>
+
+<channel>
+  <name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+  <thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+  <fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+  <link>http://ignoreme</link>
+  <externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][COLOR=gold][B]  R E A D M E   I M P O R T A N T E[/B][/COLOR][B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/readme.m3u</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+<channel>
+<name>[COLOR deepskyblue][B]IPTV SERVERS ONLINE[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/anonimous.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR orange]E U R O P E[/COLOR][COLOR royalblue]  L I V E[/COLOR][COLOR red]  T E L E V I S I O N[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/UK.html</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR deepskyblue][B]T O T A L   P L A Y    F U L L --- 1080P[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/TP1080.m3u</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+<channel>
+<name>[COLOR deepskyblue][B]T O T A L P L A Y --- SD[/B][/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/TPSd.m3u</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR deeppink][B]C I N E M A-1[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/VIDEOTECA.txt</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+
+<channel>
+<name>[COLOR deeppink][B]C I N E M A-2[/B][/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/pWgMrZyF</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR deeppink][B]C I N E M A-3[/B][/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/theather.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR royalblue][B]C I N E M A-4[/B][/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/cinema4.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>http://img.haozhaopian.net/share/1469444054600xyH.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+<channel>
+<name>[COLOR royalblue][B]C I N E M A-5[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/cinema5.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR royalblue][B]C I N E M A-6[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/cinema6.m3u</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR red][B]T V  S H O W S[/B][/COLOR] </name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/seriecatalogo.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR silver][B]S E R I E S  F A V O R I T A S[/B][/COLOR] </name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/series.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR coral][B]A M E R I C A T E V E[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/vY8r1avS</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR blue][B]C U B A[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/cubavision.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR gold][B]K I D S[/B][/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/5kBx3yLg</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR deepskyblue][B]L O C A L E S[/B][/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/local.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR silver][B]R A D I O[/B] [/COLOR]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/radio.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR deepskyblue][B]S P O R T S[/B][/COLOR] UNDER CONSTRUCTION</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://cipssmcgill.files.wordpress.com/2014/02/underconstruction.jpg</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+
+
+
+
+
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+<channel>
+<name>[COLOR=silver][B]========o===========[/B][/COLOR] </name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<fanart></fanart>
+<externallink>http://legionworldtv.com/list/gimvirtua.</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B][B][COLOR blue]//////////////[/COLOR][/B][B][COLOR lime]/////////////[/COLOR][/B][B][COLOR orange]//////////////[/COLOR][/B][B][COLOR blue].[/COLOR][/B][B][COLOR lime].[/COLOR][/B][B][COLOR orange].[/COLOR][/B]</name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://freemediaentertainment.com</externallink>
+</channel>
+
+<channel>
+<name>       [COLOR=lime][B]<<<<<<[/B][/COLOR][COLOR=blue][B]ENJOY  AND  GOD  BLESS  YOU[/B][/COLOR][COLOR=lime][B]>>>>>>[/B][/COLOR] </name>
+<thumbnail>https://img.fotor.com/share/1471802875443EZR.jpg</thumbnail>
+<fanart>https://img.fotor.com/share/1471478420006KbP.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://legionworldtv.com/list/UK.</externallink>
+</channel>
+
+
+</channels>

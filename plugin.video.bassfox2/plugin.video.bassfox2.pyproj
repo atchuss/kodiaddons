@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{d3b9aad8-a633-4048-a15c-8dbe30fa150b}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>AADecoder.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId>{9a7a9026-48c1-4688-9d5d-e5699d47d074}</InterpreterId>
+    <InterpreterVersion>3.4</InterpreterVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="fanart.jpg" />
+    <Content Include="favicon.png" />
+    <Content Include="icon.png" />
+    <Content Include="Images\background.png" />
+    <Content Include="Images\trans_checked.png" />
+    <Content Include="Images\trans_unchecked1.png" />
+    <Content Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AADecoder.py" />
+    <Compile Include="cloudflare.py" />
+    <Compile Include="CustomPlayer.py" />
+    <Compile Include="default.py" />
+    <Compile Include="genesisresolvers.py" />
+    <Compile Include="jscrypto.py" />
+    <Compile Include="keepalive.py" />
+    <Compile Include="oneplay.py" />
+    <Compile Include="pkcs7.py" />
+    <Compile Include="playtvfr.py" />
+    <Compile Include="pyaes.py" />
+    <Compile Include="RijndaelManaged.py" />
+    <Compile Include="securi.py" />
+    <Compile Include="tv5.py" />
+    <Compile Include="unCaptcha.py" />
+    <Compile Include="vipracing.py" />
+    <Compile Include="wattv.py" />
+    <Compile Include="youtubedl.py" />
+    <Compile Include="_DMsearch.py" />
+    <Compile Include="_ytplist.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="{9a7a9026-48c1-4688-9d5d-e5699d47d074}\3.4" />
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>

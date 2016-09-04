@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR=FFC0C0C0] [B]          >>>>>> AGENDA DE EVENTOS ACESTREAM <<<<<<       [/B][/COLOR]   </title>
+<link>http://ignorame</link>
+<thumbnail>http://cache.desktopnexus.com/thumbseg/502/502363-bigthumbnail.jpg</thumbnail>
+<fanart>http://hiit-blog.dailyhiit.com/wp-content/uploads/2015/02/sports.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR=orange][B]Agenda Deportiva ARENAVISION [COLOR lemonchiffon]P2P [/B][/COLOR] [COLOR=gold]*Necesario P2P[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR orange][makelist.param1][/COLOR] [COLOR gray][makelist.param2][/COLOR] [COLOR mintcream][makelist.param4][/COLOR][COLOR gold] [makelist.param5][/COLOR]  </title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=BassFox*P2P*- Evento Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+                        <fanart>http://cdimage.debian.org/mirror/addons.superrepo.org/v7/addons/repository.p2p-streams.xbmc/fanart.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/03/p2p-streams-xbmc-kodi-addon-1.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR=orange][B]Agenda Deportiva ARENAVISION [COLOR lemonchiffon]PLEXUS [/B][/COLOR] [COLOR=gold]*Necesario Plexus[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR orange][makelist.param1][/COLOR] [COLOR gray][makelist.param2][/COLOR] [COLOR mintcream][makelist.param4][/COLOR][COLOR gold] [makelist.param5][/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BassFox*Plexus*- Evento Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+                        <fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/10/plexus-addon-plugin-xbmc-kodi.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>         [COLOR=FFC0C0C0][B]>>>>>> CANALES ARENAVISION ACESTREAM <<<<<<[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/OXrlo31.png</thumbnail>
+</item>
+	
+<item>
+<title>[COLOR orange][B]ArenaVision 1 [/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 1*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av1</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 2 [/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 2*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 3[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 3*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av3</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 4[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 4*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av4</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 5[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 5*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av5</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 6[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 6*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av6</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+item>
+<title>[COLOR orange][B]ArenaVision 7[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 7*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av7</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+item>
+<title>[COLOR orange][B]ArenaVision 8[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 8*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av8</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+item>
+<title>[COLOR orange][B]ArenaVision 9[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 9*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av9</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>				
+
+						
+<item>
+<title>[COLOR orange][B]ArenaVision 10[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 10*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av10</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 11[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 11*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av11</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 12[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 12*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av12</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 13[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 13*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av13</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 14[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 14*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av14</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 15[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 15*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av15</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 16[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 16*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av16</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 17[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 17*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av17</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 18[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 18*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av18</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+                                                                                                                                            
+<item>
+<title>[COLOR orange][B]ArenaVision 19[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 19*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av10</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange][B]ArenaVision 20[/COLOR] [COLOR gray] *Necesario [COLOR mintcream]PLEXUS[/COLOR]*[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: Arenavision 20*</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av20</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
+<fanart>http://i.imgur.com/zjinfFP.jpg</fanart>
+</regex>
+</item>

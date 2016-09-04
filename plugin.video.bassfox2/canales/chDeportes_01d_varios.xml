@@ -1,0 +1,1110 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]FOX SPORTS 1[/B][/COLOR] …•ˆ•.) [COLOR  orange]Necessary Sporstdevil[/COLOR]</title>
+<sportsdevil>http://www.streamlive.to/embed/71971</sportsdevil>
+			<referer>http://www.streamlive.to</referer>
+<thumbnail>http://vignette2.wikia.nocookie.net/logosfake/images/4/4d/Fox_Sports_1.png</thumbnail>
+<fanart>http://www.foxsports.com/speed/wp-content/uploads/2013/08/1129922_article_img_xlarge6.jpg</fanart>
+<info>Fox Sports 1 (FS1) is an American sports-oriented cable and satellite television channel that is owned by the Fox Sports Media Group, a unit of the Fox</info>
+</item>
+
+http://castalba.tv/channel/27612
+item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]FOX SPORTS 1[/B][/COLOR] …•ˆ•.)</title>
+<link>$doregex[get_rtmp]</link>
+<regex>
+<Name>get_rtmp</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/73260/Fox_Sport_1_%28HD%29',False,False,'http://vipracing.us/')</expres>
+<page></page>
+</regex>
+<thumbnail>http://vignette2.wikia.nocookie.net/logosfake/images/4/4d/Fox_Sports_1.png</thumbnail>
+<fanart>http://www.foxsports.com/speed/wp-content/uploads/2013/08/1129922_article_img_xlarge6.jpg</fanart>
+<info>Fox Sports 1 (FS1) is an American sports-oriented cable and satellite television channel that is owned by the Fox Sports Media Group, a unit of the Fox</info>
+</item>
+
+item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]FOX SPORTS 1 HD[/B][/COLOR] …•ˆ•.) [COLOR  orange]Gracias a Juan Ch[/COLOR]</title>
+<link>http://45.32.3.155:8080/FS1HDUSA/index.m3u8<link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logosfake/images/4/4d/Fox_Sports_1.png</thumbnail>
+<fanart>http://www.foxsports.com/speed/wp-content/uploads/2013/08/1129922_article_img_xlarge6.jpg</fanart>
+<info>Fox Sports 1 (FS1) is an American sports-oriented cable and satellite television channel that is owned by the Fox Sports Media Group, a unit of the Fox</info>
+</item>
+
+<item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS BUNDESLIGA 1[/B][/COLOR] …•ˆ•.)</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70728',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.hoeinger-sv.de/wp-content/uploads/sky-Bundesliga.jpg</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+
+
+<item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 1 DE GERMANY[/B][/COLOR] …•ˆ•.)</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-hd1-germany-live-stream-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>https://www.sky.de/static/img/senderlogos/sky_logo_skysporthd1.png</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+               
+               <item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 2 DE GERMANY[/B][/COLOR] …•ˆ•.)</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-hd2-germany-live-stream-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>http://www.imfernsehen.de/logos/hr/191.png</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+               
+               
+                <item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary Sporstdevil[/COLOR]</title>
+<sportsdevil>http://crichd.tv/update/skys1.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+<thumbnail>http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+ 
+   <item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary Sporstdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/front_embed_996.html</sportsdevil>
+ <referer>http://mamahd.com</referer>
+<thumbnail>http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+                           
+               <item>
+               <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 1[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68713',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+               
+               <item>
+               <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 1 HQ[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68718',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary Sporstdevil[/COLOR]</title>
+<sportsdevil>http://crichd.tv/update/skys2.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+<thumbnail>http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary Sporstdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-2-live-streaming-free-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 2[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68424',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 2 HQ[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 3[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://crichd.tv/update/skys3.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+<thumbnail>http://3.bp.blogspot.com/-8V4y1J-wk6M/UjyRh6UAu5I/AAAAAAAAA30/4hvmVC9H2q0/s320/timthumb.php.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+<item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 3[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-3-live-stream-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>http://3.bp.blogspot.com/-8V4y1J-wk6M/UjyRh6UAu5I/AAAAAAAAA30/4hvmVC9H2q0/s320/timthumb.php.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+
+               
+<item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 3 HQ[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68714',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-8V4y1J-wk6M/UjyRh6UAu5I/AAAAAAAAA30/4hvmVC9H2q0/s320/timthumb.php.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>               
+               
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 4[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<sportsdevil>http://crichd.tv/update/skys4.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+
+<item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 4[/B][/COLOR] …•ˆ•.)[/COLOR][COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-4-live-stream-free-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+		       <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>
+               
+<item>
+		        <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 4 HQ[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68715',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+		       <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+               </item>               
+            
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 5 [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-5-live-stream-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 5 [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://crichd.tv/update/skys5.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS 5 HQ[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68716',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+</item>
+  
+  <item>	
+ <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SKY SPORTS ATLANTIC[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72136',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+	<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Atlantic.jpg</thumbnail>	       
+<fanart>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-add-sky-sports-now.png</fanart>
+<info>Sky Sports es el canal de deportes más importante del Reino Unido, conocido por su extensa emisión de fútbol. Fue fundado el 25 de marzo de 1990.</info>
+  </item>
+               
+             
+               <title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PREMIER SPORTS[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<sportsdevil>http://crichd.tv/update/premier.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+		       <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png</thumbnail>
+<fanart>https://marchhockeymadness.files.wordpress.com/2015/07/premier-sports-logo-full-res-master.png</fanart>
+<info>Premiere Sport deportes variados.</info>
+               </item>
+
+http://www.streamlive.to/embed/69029&width=653&height=410&autoplay=true
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]ESPN HD USA[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69029',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://foxcitiestv.com/files/images/espn.png</thumbnail>
+<fanart>http://www.graphicsmafia.com/wp-content/uploads/2009/04/sportscenter.jpg</fanart>
+<info>ESPN, Inc. (siglas de Entertainment and Sports Programming Network, hoy en desuso), es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]ESPN 2 USA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/espn2-live-stream</sportsdevil>
+			<referer>http://cricfree.sx</referer>
+<thumbnail>http://static01.uverse.com/web_files/NEXTGEN/web_files/images/Network%20Logos/network-page/espn2.png</thumbnail>
+<fanart>http://www.graphicsmafia.com/wp-content/uploads/2009/04/sportscenter.jpg</fanart>
+<info>ESPN, Inc. (siglas de Entertainment and Sports Programming Network, hoy en desuso), es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]ESPN 2 HD USA[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69028',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://static01.uverse.com/web_files/NEXTGEN/web_files/images/Network%20Logos/network-page/espn2.png</thumbnail>
+<fanart>http://www.graphicsmafia.com/wp-content/uploads/2009/04/sportscenter.jpg</fanart>
+<info>ESPN, Inc. (siglas de Entertainment and Sports Programming Network, hoy en desuso), es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]ESPN UK[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-espn-uk-live-stream-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>http://foxcitiestv.com/files/images/espn.png</thumbnail>
+<fanart>http://www.graphicsmafia.com/wp-content/uploads/2009/04/sportscenter.jpg</fanart>
+<info>ESPN, Inc. (siglas de Entertainment and Sports Programming Network, hoy en desuso), es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]ESPN UK[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70190',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://foxcitiestv.com/files/images/espn.png</thumbnail>
+<fanart>http://www.graphicsmafia.com/wp-content/uploads/2009/04/sportscenter.jpg</fanart>
+<info>ESPN, Inc. (siglas de Entertainment and Sports Programming Network, hoy en desuso), es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SPORT 1 USA[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72138',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.dwdl.de/images/1376426060.jpg</thumbnail>
+<fanart>http://www.graphicsmafia.com/wp-content/uploads/2009/04/sportscenter.jpg</fanart>
+<info>Sport1 US (eigene Schreibweise: sport1 US) ist nach sport1+ der zweite Pay-TV-Sender der Constantin Medien AG in Deutschland, Österreich und der Schweiz. Seit dem 1</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]WWE Network Live[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/wwenetwork.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/wwenetwork.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/3/37/GoGo_Toys_2015.png</thumbnail>
+			<fanart>http://i.ytimg.com/vi/tWgcy55_A4g/maxresdefault.jpg</fanart>
+            <info>[B]WWE Network es un servicio de transmisión de video propiedad de WWE. El concepto fue originalmente anunciado en 2011[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]WWE Network Live[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://www.crichd.tv/wwe-network.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/3/37/GoGo_Toys_2015.png</thumbnail>
+			<fanart>http://i.ytimg.com/vi/tWgcy55_A4g/maxresdefault.jpg</fanart>
+            <info>[B]WWE Network es un servicio de transmisión de video propiedad de WWE. El concepto fue originalmente anunciado en 2011[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]WWE NETWORK ENGLISH LIVE[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://usachannels.tv/wwe.php</sportsdevil>
+			<referer>http://usachannels.tv</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/3/37/GoGo_Toys_2015.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2012/330/0/f/smackdown__vs__raw_tablet_psp_wallpaper_by_brettbren-d5m8ai7.png</fanart>
+<info>La WWE (a efectos legales, World Wrestling Entertainment, Inc.) 24hrs de transmisión de SmackDown, RAW, y Eventos</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]UFC 24/7 Channel (INGLES - BEST FIGHTINGS[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_profe3193 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/profe3193$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page>http://vaughnlive.tv/profe3193</page>
+</regex>
+<thumbnail>https://eaassets-a.akamaihd.net/vassets.ea.com/Assets/Resources/EASO/Image/ufcfeaturepage_logo.png</thumbnail>
+			<fanart>http://cmster.com/media/EgflzazZkveCZplJLcqc5n4FfjNMM8mCPFRplxRXm9JIRXATWdDPAU4ZlZFQNmNm.jpg</fanart>
+            <info>[B]LAS MEJORES PELEAS VARIADAS DE LA UFC 24/7 HORAS![/B]</info>
+</item>
+	  
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]FIGHT TV ASIA [/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
+<thumbnail>http://www.digitaltveurope.net/wp-content/uploads/2014/08/Fight-Sports.png</thumbnail>
+			<fanart>http://cmster.com/media/EgflzazZkveCZplJLcqc5n4FfjNMM8mCPFRplxRXm9JIRXATWdDPAU4ZlZFQNmNm.jpg</fanart>
+            <info>[B]FIGHT TV Best fighting 24/7[/B]</info>
+</item>
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBA TV[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/nba-network-live-stream</sportsdevil>
+			<referer>http://cricfree.sx</referer>
+<thumbnail>http://www.nba.com/media/nbatv_logo.gif</thumbnail>
+<fanart>http://newpost.gr/storage/photos/master/201311/nba.jpg</fanart>
+<info>NBA TV es una cadena de televisión dedicada exclusivamente al baloncesto en Estados Unidos.</info>
+</item>
+
+<item>
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBA TV[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://bit.ly/21bzAxa</link>
+<thumbnail>http://www.nba.com/media/nbatv_logo.gif</thumbnail>
+<fanart>http://newpost.gr/storage/photos/master/201311/nba.jpg</fanart>
+<info>NBA TV es una cadena de televisión dedicada exclusivamente al baloncesto en Estados Unidos.</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SETENTA SPORTS HQ [/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70189',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2014/10/Setanta-Sports.jpg</thumbnail>
+<fanart>http://images.eurogamer.net/articles//a/1/2/2/8/0/6/9/kinect_sports01.jpg.jpg/EG11/resize/722x-1/format/jpg/free-kinect-sports-hd-desktop-wallpaper.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SPORTS HD (Eventos Variado en Ingles) NO FUNCIONA[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://199.168.116.19:1935/app/morepowers-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf pageUrl=https://streamup.com/rooms/mahmads-Channel/pluginse/video/show?autoplayAudio=true(stream1)</link>
+<thumbnail>http://up.vbiran.ir/uploads/137866858736636_0hd_logo-1346836492.png</thumbnail>
+<fanart>http://images.eurogamer.net/articles//a/1/2/2/8/0/6/9/kinect_sports01.jpg.jpg/EG11/resize/722x-1/format/jpg/free-kinect-sports-hd-desktop-wallpaper.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]GOL TV - ENGLISH[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://www.streamlive.to/embed/68875</sportsdevil>
+			<referer>http://www.streamlive.to</referer>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2011/11/goltv.jpg</thumbnail>
+<fanart>http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png</fanart>
+<info>Gol TV es un canal de televisión por cable o satélite dedicada a la transmisión de programación de fútbol. Es la primera red de televisión dedicada íntegramente al fútbol en los Estados Unidos. </info>
+</item>
+  
+ 
+  <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]RAI SPORT 1[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>mmsh://212.162.68.163:80/raisport+</link>
+    <thumbnail>http://www.stream2watch.com/images/thumbs/raisport1%20live%20stream.gif</thumbnail>
+    <fanart>http://img2.wikia.nocookie.net/__cb20100519155511/logopedia/images/6/6b/Rai_Sport_1_ident.jpg</fanart>
+	<info>Es un canal de deportes en italiano</info>
+	</item>
+        
+        <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]RAI SPORT 1[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://chunkp-i.akamaihd.net/hls/live/233254/raisport1_600/chunklist.m3u8</link>	
+    <thumbnail>http://www.stream2watch.com/images/thumbs/raisport1%20live%20stream.gif</thumbnail>
+    <fanart>http://img2.wikia.nocookie.net/__cb20100519155511/logopedia/images/6/6b/Rai_Sport_1_ident.jpg</fanart>
+	<info>Es un canal de deportes en italiano</info>
+	</item>
+        
+	     <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]RAI SPORT 2[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>mmsh://212.162.68.163:80/raisport2</link>
+    <thumbnail>http://www.raisport.rai.it/dl/images/1274711233486Videowall_RaiSport2.png</thumbnail>
+      <fanart>http://bridgeditalia.it/wp-content/uploads/2013/04/rai_sport2_carte-380x240.jpg</fanart>
+	<info>Es un canal de deportes en italiano</info>
+	</item>
+	
+item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]MOTORS TV[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8</link>
+    <thumbnail>http://www.mobilservicecentre.co.uk/res/Motors%20TV%20logo.png</thumbnail>
+    <fanart>http://www.broadbandchoices.co.uk/remote/cc-umbraco-images.s3.amazonaws.com/bc/NewsImages/motors-tv-channel-logo.jpg.ashx?width=304&height=171</fanart>
+	<info>Motors TV es un canal de televisión dedicado a las noticias, documentales y cobertura del mundo del motor y el automovilismo, y también a mostrar competiciones de motos, lanchas y modelos</info>
+	</item>
+	
+
+     <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]LIGTV[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://5.196.123.19:8082/superlig</link>
+    <thumbnail>http://2.bp.blogspot.com/-b6VCtxuhA5M/UY4cGIK0SwI/AAAAAAAAATk/N7y5vNdRXew/s320/527071_512638738763190_1329451304_n.jpg</thumbnail>
+    </item>
+	
+	   <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]EUROSPORT (FRANCIA)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8</link>
+    <thumbnail>http://1.bp.blogspot.com/-2q6md-oezYw/UWC_gIh_vsI/AAAAAAAAGqk/V0AoL6d66mY/s1600/Eurosport_France-logo-E11E145BD4-seeklogo.com.gif</thumbnail>
+    <fanart> http://www.ciclismoafondo.es/media/cache/article_middle/upload/images/article/article-eurosport-celebra-el-centenario-del-tour-de-francia-con-una-programacion-historica.png</fanart>
+	<info>Eurosport es un canal de televisión europeo especializado en deporte, que se emite por satélite y cable. Está disponible en 59 países y se distribuye en 20 idiomas, incluido el español.</info>
+	</item>
+
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]EUROSPORT (ENG)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+    <thumbnail>http://advanced-television.com/wp-content/uploads/2013/05/Eurosport.gif</thumbnail>
+     <fanart>http://www.ciclismoafondo.es/media/cache/article_middle/upload/images/article/article-eurosport-celebra-el-centenario-del-tour-de-francia-con-una-programacion-historica.png</fanart>
+	<info>Eurosport es un canal de televisión europeo especializado en deporte, que se emite por satélite y cable. Está disponible en 59 países y se distribuye en 20 idiomas, incluido el español.</info>
+	</item>
+	  
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]EUROSPORT 1(ENG)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68723',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+    <thumbnail>http://advanced-television.com/wp-content/uploads/2013/05/Eurosport.gif</thumbnail>
+     <fanart>http://www.ciclismoafondo.es/media/cache/article_middle/upload/images/article/article-eurosport-celebra-el-centenario-del-tour-de-francia-con-una-programacion-historica.png</fanart>
+	<info>Eurosport es un canal de televisión europeo especializado en deporte, que se emite por satélite y cable. Está disponible en 59 países y se distribuye en 20 idiomas, incluido el español.</info>
+	</item>
+        
+ <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]EUROSPORT 2(ENG)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+    <thumbnail>http://advanced-television.com/wp-content/uploads/2013/05/Eurosport.gif</thumbnail>
+     <fanart>http://www.ciclismoafondo.es/media/cache/article_middle/upload/images/article/article-eurosport-celebra-el-centenario-del-tour-de-francia-con-una-programacion-historica.png</fanart>
+	<info>Eurosport es un canal de televisión europeo especializado en deporte, que se emite por satélite y cable. Está disponible en 59 países y se distribuye en 20 idiomas, incluido el español.</info>
+	</item> 
+
+ <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]EUROSPORT 2(ENG)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68724',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+    <thumbnail>http://advanced-television.com/wp-content/uploads/2013/05/Eurosport.gif</thumbnail>
+     <fanart>http://www.ciclismoafondo.es/media/cache/article_middle/upload/images/article/article-eurosport-celebra-el-centenario-del-tour-de-francia-con-una-programacion-historica.png</fanart>
+	<info>Eurosport es un canal de televisión europeo especializado en deporte, que se emite por satélite y cable. Está disponible en 59 países y se distribuye en 20 idiomas, incluido el español.</info>
+	</item>               
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS EUROPE[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-bt-sport-europe-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://sports4u.tv/wp-content/uploads/bt-sport-europe-logo.png</thumbnail>
+<fanart>https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2015/06/bt-sport-europe-header-logo.png</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS EUROPE[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/bt-sport-europe-live-stream-free</sportsdevil>
+<referer>http://cricfree.sx</referer>
+<thumbnail>http://sports4u.tv/wp-content/uploads/bt-sport-europe-logo.png</thumbnail>
+<fanart>https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2015/06/bt-sport-europe-header-logo.png</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://crichd.tv/update/bt1.php</sportsdevil>
+<referer>http://crichd.tv</referer>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20130806193246/logopedia/images/thumb/6/68/BT_Sport_1_%28pre-launch%29.svg/300px-BT_Sport_1_%28pre-launch%29.svg.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20130806193246/logopedia/images/thumb/6/68/BT_Sport_1_%28pre-launch%29.svg/300px-BT_Sport_1_%28pre-launch%29.svg.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 1[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20130806193246/logopedia/images/thumb/6/68/BT_Sport_1_%28pre-launch%29.svg/300px-BT_Sport_1_%28pre-launch%29.svg.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR] </title>
+<sportsdevil>http://cricfree.sx/bt-sport-2-live-stream-2</sportsdevil>
+			<referer>http://cricfree.sx</referer>
+<thumbnail>http://www.bearage.co.uk/images/sports_logo/bt_sport_2.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR] </title>
+<sportsdevil>http://crichd.tv/update/bt2.php</sportsdevil>
+			<referer>http://crichd.tv</referer>
+<thumbnail>http://www.bearage.co.uk/images/sports_logo/bt_sport_2.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-bt-sport-2-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.bearage.co.uk/images/sports_logo/bt_sport_2.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 2 HQ[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.bearage.co.uk/images/sports_logo/bt_sport_2.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BT SPORTS 2 HQ[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68721',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.bearage.co.uk/images/sports_logo/bt_sport_2.png</thumbnail>
+<fanart>http://tvnewsroom.org/wp-content/uploads/2013/08/BT-Sport-1-eng-BT-Sports-Panel-08-03-10-22-32.jpg</fanart>
+<info>BT Sport es una cadena de televisión por suscripción de deportes de BT Group que se ofrece en las operadores de televisión paga BT TV, </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BOX NATION[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://cdn18.crichd.in/box-nation-live-streaming</sportsdevil>
+			<referer>http://cdn18.crichd.in</referer>
+<thumbnail>http://www.media15.tv/img/client-boxnation1.jpg</thumbnail>
+<fanart>http://i.dailymail.co.uk/i/pix/2013/03/11/article-2291761-1411BED4000005DC-640_634x456.jpg</fanart>
+<info>24 hs dedicadas al boxeo </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BOX NATION[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-box-nation-live-streaming-free-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>http://www.media15.tv/img/client-boxnation1.jpg</thumbnail>
+<fanart>http://i.dailymail.co.uk/i/pix/2013/03/11/article-2291761-1411BED4000005DC-640_634x456.jpg</fanart>
+<info>24 hs dedicadas al boxeo </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BOX NATION[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/update/boxnation.php</sportsdevil>
+			<referer>http://cricfree.sx</referer>
+<thumbnail>http://www.media15.tv/img/client-boxnation1.jpg</thumbnail>
+<fanart>http://i.dailymail.co.uk/i/pix/2013/03/11/article-2291761-1411BED4000005DC-640_634x456.jpg</fanart>
+<info>24 hs dedicadas al boxeo </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BOX NATION HQ[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68719',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.media15.tv/img/client-boxnation1.jpg</thumbnail>
+<fanart>http://i.dailymail.co.uk/i/pix/2013/03/11/article-2291761-1411BED4000005DC-640_634x456.jpg</fanart>
+<info>24 hs dedicadas al boxeo </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]BAHRAIN SPORTS[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>rtmp://alayam.netromedia.net/btv3/btv3</link>
+    <thumbnail>http://tv-online.at.ua/logo2/Bahrain_Sports_TV.jpg</thumbnail>
+   </item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]CANAL+ SPORTS FRANCE[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70467',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://sportchannels.mobi/pic/CANAL.png</thumbnail>
+<fanart>http://www.mediaunautreregard.com/wp-content/uploads/2011/08/Pascal-Mathieu-signal-privatif-Canal-+-Mondiaux-judo.jpg</fanart>
+<info>24 hs dedicadas al boxeo </info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]CHELSEA TV[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8</link>
+<thumbnail>http://static.timefor.tv/imgs/epg/logos/chelseatv_uk_big.png</thumbnail>
+<fanart>http://www.mediaunautreregard.com/wp-content/uploads/2011/08/Pascal-Mathieu-signal-privatif-Canal-+-Mondiaux-judo.jpg</fanart>
+<info>24 hs CHELSEA TV </info>
+</item>
+	  
+
+item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]CTH STADIUM 5 PREMIER LEAGUE[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR=red] Necessary F4mtester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>file: "(.*?)",</expres>
+	<page>$doregex[linkpg]</page>
+	<referer>http://www.khaozap.com</referer>
+</regex>
+<regex>
+	<name>linkpg</name>
+	<expres>dragon_player.*\n.*\n.*\n.*src="(.*?)"</expres>
+	<page>http://www.khaozap.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-cth1-hd/</page>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-kE0hjgrZvw4/VFN7AhcPzxI/AAAAAAAAANw/prTiG27vLfk/s1600/Stadium5.jpg</thumbnail>
+<fanart>http://en.isnhotnews.com/wp-content/uploads/2013/05/218324335-cth.png</fanart>
+<info>CTH Cable Thailandes que emite partidos de la Premier League - Live Soccer TV - Football TV Listings, Official Thailand </info>
+</item>
+  
+
+		item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SPORTSNET 360 Opcion 2[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8</link>
+    <thumbnail>http://www.thestar.com/content/dam/thestar/sports/2013/06/07/rogers_unveils_sportsnet_360_details_mudhar/sportsnet_360.jpg.size.xxlarge.letterbox.jpg</thumbnail>
+     <fanart>http://assets3.sportsnet.ca/wp-content/uploads/2013/06/sportsnet360.png</fanart>
+	<info> Programación disponible en verdadera alta definición incluye la Serie A del fútbol, ​​de la NBA de baloncesto, la Copa Vanier , NCAA cobertura y WWE 's SmackDown , Raw , NXT , Vintage Collection y la experiencia de la WWE  </info>
+	</item>
+	
+	
+    <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/update/boxnation.php</sportsdevil>
+			<referer>http://cricfree.sx</referer>
+    <thumbnail>http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>
+        	
+    <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://showsport-tv.com/watch/tsn1-canada-live-stream</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+    <thumbnail>http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>
+        
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 1[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary f4mTester[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/pierre/pierre/4594.ts&amp;streamtype=TSDOWNLOADER</link>
+    <thumbnail>http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>        
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 2[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://showsport-tv.com/watch/tsn2-canada-live-stream</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+    <thumbnail>http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>
+        
+        <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 2[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/pierre/pierre/4595.ts&amp;streamtype=TSDOWNLOADER</link>
+    <thumbnail>http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>
+        
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 3[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/pierre/pierre/4596.ts&amp;streamtype=TSDOWNLOADER</link>
+    <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>
+        
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 4[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/pierre/pierre/4597.ts&amp;streamtype=TSDOWNLOADER</link>
+    <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>	
+          	  
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]TSN 5[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/pierre/pierre/4598.ts&amp;streamtype=TSDOWNLOADER</link>
+    <thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png</thumbnail>
+     <fanart>https://postmediacanadadotcom.files.wordpress.com/2014/05/bm9l7ltcaae7aqy.jpg?w=680</fanart>
+	<info>The Sports Network, mejor conocida por sus siglas TSN, es una empresa que ofrece canales de televisión por suscripción de deportes en Canadá. Fue uno de los primeros canales por suscripción del país y el primero orientado a deportes</info>
+	</item>
+        
+        	  	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]Mountain 1080p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC SPORTS  [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary F4mTester[/COLOR]</title>        
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/pierre/pierre/4587.ts&amp;streamtype=TSDOWNLOADER</link>
+                        <thumbnail>http://rtv.iscdn.net/2014/07/548_racertv_nbcsports_category_series_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]NBC Sports is the programming division of the National Broadcasting Company (NBC), owned by the NBCUniversal Television Group division of NBCUniversal[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC SPORTS HQ[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary F4mTester[/COLOR]</title>    
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=64232',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]NBC Sports is the programming division of the National Broadcasting Company (NBC), owned by the NBCUniversal Television Group division of NBCUniversal[/B]</info>
+</item>
+
+                        <item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC SPORTS [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange]Necessary Sporstdevil[/COLOR]</title>        
+<sportsdevil>http://www.crichd.tv/watch/95279/nbc-sports-live-streaming/</sportsdevil>
+			<referer>http://crichd.tv</referer>
+                        <thumbnail>http://rtv.iscdn.net/2014/07/548_racertv_nbcsports_category_series_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]NBC Sports is the programming division of the National Broadcasting Company (NBC), owned by the NBCUniversal Television Group division of NBCUniversal[/B]</info>
+</item>
+
+item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC SPORTS HD 1080p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://rtv.iscdn.net/2014/07/548_racertv_nbcsports_category_series_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]NBC Sports is the programming division of the National Broadcasting Company (NBC), owned by the NBCUniversal Television Group division of NBCUniversal[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC SPORTS [/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/master.m3u8</link>
+<thumbnail>http://rtv.iscdn.net/2014/07/548_racertv_nbcsports_category_series_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]NBC Sports is the programming division of the National Broadcasting Company (NBC), owned by the NBCUniversal Television Group division of NBCUniversal[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC GOLF 1080p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]Golf Channel on NBC is the branding used for broadcasts of golf tournaments produced by NBC Sports in conjunction with Golf Channel, on the NBC television[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC GOLF 720p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]Golf Channel on NBC is the branding used for broadcasts of golf tournaments produced by NBC Sports in conjunction with Golf Channel, on the NBC television[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC GOLF[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]NFL Network es un canal de televisión de la National Football League (NFL), la liga estadounidense de fútbol americano.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NBC NETWORK[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/64.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]NFL Network es un canal de televisión de la National Football League (NFL), la liga estadounidense de fútbol americano.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NASCAR[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8</link>
+<thumbnail>http://www.race2cup.com/Sprint_Cup_logo.png</thumbnail>
+<fanart>http://kodi.tv/wp-content/uploads/zappy-frodo-background-680-600x336.jpg</fanart>
+<info>[B]The official site of NASCAR, the National Association for Stock Car Auto Racing. Find NASCAR news, schedules, standings and drivers[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NFL[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR  orange] Necessary Sportsdevil[/COLOR]</title>
+<sportsdevil>http://mamahd.com/live/watch-nfl-network-live-stream-free-1.html</sportsdevil>
+			<referer>http://mamahd.com</referer>
+<thumbnail>http://www.clipartbest.com/cliparts/dT7/jy5/dT7jy5Xrc.png</thumbnail>
+<fanart>http://media-cache-ec0.pinimg.com/originals/19/50/d4/1950d414def2df8bce434f7ea8882fcb.jpg</fanart>
+<info>[B]NFL Network (occasionally abbreviated on-air as NFLN) is an American sports-oriented cable and satellite television network that is owned by the National[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]NFL HQ[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68875',False,False,'http://vipracing.us/')</expres>
+	<page></page>
+</regex>
+<thumbnail>http://www.clipartbest.com/cliparts/dT7/jy5/dT7jy5Xrc.png</thumbnail>
+<fanart>http://media-cache-ec0.pinimg.com/originals/19/50/d4/1950d414def2df8bce434f7ea8882fcb.jpg</fanart>
+<info>[B]NFL Network (occasionally abbreviated on-air as NFLN) is an American sports-oriented cable and satellite television network that is owned by the National[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SPORTTIME TV 1[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8</link>
+<thumbnail>http://img.webme.com/pic/t/tvhdizle/sporttimetv.png</thumbnail>
+<fanart>http://www.valenciacf.com/bd/imagenes/imagen30649d.jpg</fanart>
+<info>[B]Sporttime.tv - Sports Music - Online TV - Sport Videos online- - Fussball, Eishockey, Motorsport, Radsport, Wintersport, Events Specials[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SPORTTIME TV 2[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
+<thumbnail>http://img.webme.com/pic/t/tvhdizle/sporttimetv.png</thumbnail>
+<fanart>http://www.valenciacf.com/bd/imagenes/imagen30649d.jpg</fanart>
+<info>[B]Sporttime.tv - Sports Music - Online TV - Sport Videos online- - Fussball, Eishockey, Motorsport, Radsport, Wintersport, Events Specials[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]SPORTTIME TV 3[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/chunklist_b3174400.m3u8</link>
+<thumbnail>http://img.webme.com/pic/t/tvhdizle/sporttimetv.png</thumbnail>
+<fanart>http://www.valenciacf.com/bd/imagenes/imagen30649d.jpg</fanart>
+<info>[B]Sporttime.tv - Sports Music - Online TV - Sport Videos online- - Fussball, Eishockey, Motorsport, Radsport, Wintersport, Events Specials[/B]</info>
+</item>
+
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC National 720p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 net (Arizona) 720p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Arizona) 1080p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12ariz-4728.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Bat Area) 720p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12baya-2328.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Bay Area) 1080p[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12baya-4728.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Los Angeles) 720P[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12losa-2328.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Oregon) 720P[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12oreg-2328.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Oregon) 1080P[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Washington) 720P[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	
+	<item>
+<title>[COLOR=yellow](.•ˆ•… [COLOR=white][B]PAC-12 Net. (Washington) 1080P[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>http://xrxs.net/video/live-p12wash-4728.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/514436572477792259/hFAmbhIh_400x400.png</thumbnail>
+    </item>
+	  
+
+
+
+	  
+	  <fanart></fanart>
+	<info></info>
+	
+	
+	

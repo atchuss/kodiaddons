@@ -1,0 +1,1061 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+ 
+ 
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]TV PUBLICA[/COLOR] [/B][COLOR=red](FUTBOL ARGENTINO)[/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ffahds-lh.akamaihd.net/z/c7hds_3@7396/manifest.f4m?hdcore=3.5.0&amp;name=TV PUBLICA (FUTBOL ARGENTINO)</link>
+    <thumbnail>http://www.prensa.argentina.ar/advf/imagenes/4cb75690afe94.jpg</thumbnail>
+    <fanart>http://www.tvpublica.com.ar/wp-content/uploads/2013/07/f%C3%BAtbol-para-todos.jpg</fanart>
+	<info>[B]Fútbol Para Todos, es un programa gubernamental de la Argentina, dependiente de la Secretaría de Comunicación Pública de la Jefatura de Gabinete de Ministros.[/B]</info>
+    </item>
+	
+
+    <item>
+	<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]DEPORT TV (FUTBOL ARGENTINO Y NBA)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://186.33.227.198/DXTV/smil:DXTV.smil/master.m3u8</link>
+    <thumbnail>http://foromedios.com/uploads/gallery/category_2/gallery_5617_2_8487.png</thumbnail>
+    <fanart>http://www.tvpublica.com.ar/wp-content/uploads/2013/07/f%C3%BAtbol-para-todos.jpg </fanart>
+	<info>[B]Futbol Para Todos, es un programa gubernamental de la Argentina, dependiente de la Secretaría de Comunicación Pública de la Jefatura de Gabinete de Ministros.[/B]</info>
+	</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]AMERICA SPORTS (Argentina)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+        <regex>
+        <name>get-url</name>
+        <expres>http://(.*)</expres>
+        <page>http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8</page>
+        <agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+        <cookieJar></cookieJar>
+        <referer>http://ustream.tv</referer>
+        </regex>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/1/6/0/11602466/11602466_amsports2b_1342790711,66x66,r:1.jpg</thumbnail>
+<fanart>http://i365.photobucket.com/albums/oo94/axell3_2008/argentina_girls.jpg</fanart>
+<info> [B] América Sports es la señal de pramer con 24hs de transmisión diaria dedicadas al deporte.[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN DEPORTES MEXICO[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR orange]Inestable[/COLOR]</title>
+<sportsdevil>http://vipracing.us/channel/bein-es-a/frame</sportsdevil>
+<referer>http://vipracing.us</referer>
+<thumbnail>http://3.bp.blogspot.com/-83Fkc0hvNcE/UWzS5J9fTCI/AAAAAAAAFKQ/OCi7cjqAzec/s1600/LOGO+ESPN+PARA+ELIMINATORIAS+PARA+BRASIL+2014.png</thumbnail>
+<fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+<info> [B] es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte. También organiza eventos tales como los Premios ESPY desde 1993 y los X Games desde 1995[/B]</info>
+</item>
+
+
+<item>http://www.tvenvivo-hd.com/espn.html
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN DEPORTES MEXICO[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=516&amp;name=espn</page>
+<referer>http://embed.latino-webtv.com/espn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-83Fkc0hvNcE/UWzS5J9fTCI/AAAAAAAAFKQ/OCi7cjqAzec/s1600/LOGO+ESPN+PARA+ELIMINATORIAS+PARA+BRASIL+2014.png</thumbnail>
+<fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+<info> [B] es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte. También organiza eventos tales como los Premios ESPY desde 1993 y los X Games desde 1995[/B]</info>
+</item>
+
+item>http://www.ustream.tv/channel/xrphrmLaq8q
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN DEPORTES MEXICO[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR orange]GuatelindaTV[/COLOR]</title>
+<link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+        <regex>
+        <name>get-url</name>
+        <expres>http://(.*)</expres>
+        <page>http://iphone-streaming.ustream.tv/uhls/22482577/streams/live/iphone/playlist.m3u8</page>
+        <agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+        <cookieJar></cookieJar>
+        <referer>http://ustream.tv</referer>
+        </regex>
+<thumbnail>http://3.bp.blogspot.com/-83Fkc0hvNcE/UWzS5J9fTCI/AAAAAAAAFKQ/OCi7cjqAzec/s1600/LOGO+ESPN+PARA+ELIMINATORIAS+PARA+BRASIL+2014.png</thumbnail>
+<fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+<info> [B] es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte. También organiza eventos tales como los Premios ESPY desde 1993 y los X Games desde 1995[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN 2 MEXICO[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=561&amp;name=espn2</page>
+<referer>http://embed.latino-webtv.com/espn2.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-83Fkc0hvNcE/UWzS5J9fTCI/AAAAAAAAFKQ/OCi7cjqAzec/s1600/LOGO+ESPN+PARA+ELIMINATORIAS+PARA+BRASIL+2014.png</thumbnail>
+<fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+<info> [B] es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte. También organiza eventos tales como los Premios ESPY desde 1993 y los X Games desde 1995[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN 3 MEXICO[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=520&amp;name=espn3</page>
+<referer>http://embed.latino-webtv.com/espn3.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-83Fkc0hvNcE/UWzS5J9fTCI/AAAAAAAAFKQ/OCi7cjqAzec/s1600/LOGO+ESPN+PARA+ELIMINATORIAS+PARA+BRASIL+2014.png</thumbnail>
+<fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+<info> [B] es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte. También organiza eventos tales como los Premios ESPY desde 1993 y los X Games desde 1995[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.zony.tv</referer>
+</regex><regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/Espn-en-vivo.html</page> 
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-83Fkc0hvNcE/UWzS5J9fTCI/AAAAAAAAFKQ/OCi7cjqAzec/s1600/LOGO+ESPN+PARA+ELIMINATORIAS+PARA+BRASIL+2014.png</thumbnail>
+<fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+<info> [B] es un grupo mediático con sede en los Estados Unidos, que opera y produce canales de televisión por cable, satélite, radio, sitios web, revistas y libros relacionados con el deporte. También organiza eventos tales como los Premios ESPY desde 1993 y los X Games desde 1995[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN ARGENTINA 2 & 3[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/espn-en-vivo.html</page> 
+</regex>
+<thumbnail>http://lh6.googleusercontent.com/-B9IuXFEmQl0/VHZK71D0spI/AAAAAAAABE0/6foAUfo2TVU/s300/espn-mas-tv.png</thumbnail>
+<fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+<info>[B] Señal que se ve en Colombia, Ecuador, Perú, Chile, Bolivia, Argentina, Uruguay, Paraguay y, a partir del 21 de noviembre de 2013[/B]</info>
+</item>	
+
+<item> 
+	<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR orange]Sportdevil Necesario[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/Espn-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+	<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2008/04/espn-deportes-logo.jpg</thumbnail>
+     <fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+     <info>[B] ESPN Deportes es un canal de televisión de Estados Unidos, propiedad de Disney–ABC Television Group</info>
+	</item>        
+
+
+item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN, EVENTOS & MAS (MULTICANAL DEPORTIVO)[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
+<regex>
+<name>id</name>
+<expres>a href="/psn(.*?)"</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+</regex>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_psn$doregex[id]$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page></page>
+</regex>
+<thumbnail>http://www.bordadosnucleo.com.ar/images/fotos/empresas/Multicanal.jpg</thumbnail>
+<fanart>http://ligagoldenfutbol.com/wp-content/uploads/2014/09/sports-wallpapers-android.jpg</fanart>
+<info>[B]ESPN3 conocido antes como ESPN360.com y ESPN3.com es un servicio de streaming de programas deportivos de la cadena ESPN para clientes de Estados Unidos. [/B]</info>
+</item>
+
+
+item> 
+	<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]ESPN DEPORTES PIRLO[/B][/COLOR] …•ˆ•.)[/COLOR] Inestable</title>
+	<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
+	<regex>
+		<name>rtmp</name>
+		<expres>'streamer': '(.*?)'</expres>
+		<page>http://castalba.tv/embed.php?cid=25951</page>
+		<referer>http://www.pirlotvlive.com/espn.php</referer>
+	</regex>
+	<regex>
+		<name>path</name>
+		<expres>'file': '(.*?)'</expres>
+		<page>http://castalba.tv/embed.php?cid=25951</page>
+		<referer>http://www.pirlotvlive.com/espn.php</referer>
+	</regex>
+	<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2008/04/espn-deportes-logo.jpg</thumbnail>
+     <fanart>http://seostatic.tmp.com/job-images/5773/img-sales-marketing.jpg</fanart>
+     <info>[B] ESPN Deportes es un canal de televisión de Estados Unidos, propiedad de Disney–ABC Television Group</info>
+	</item>
+        
+
+item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]TYC SPORTS (Variados) [/B][/COLOR] …•ˆ•.)</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_afatv1 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_afatv1$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page></page>
+</regex>
+<thumbnail>http://latelete.tv/img/tyc.png</thumbnail>
+<fanart>http://www.martinferdkin.com.ar/news/tycsports/tyc1.jpg</fanart>
+<info>[B] TyC Sports es un canal de televisión de deportes argentino. Su programación se basa íntegramente en relación al deporte.[/B]</info>
+</item>
+
+
+	<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]TYC SPORTS HD [/B][/COLOR] …•ˆ•.)[COLOR red]Inestable OFF[/COLOR]</title>
+<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8#b1f2s3x1</link>
+<thumbnail>http://latelete.tv/img/tyc.png</thumbnail>
+<fanart>http://www.martinferdkin.com.ar/news/tycsports/tyc1.jpg</fanart>
+<info>[B] TyC Sports es un canal de televisión de deportes argentino. Su programación se basa íntegramente en relación al deporte.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]TYC SPORTS SD [/B][/COLOR] …•ˆ•.)</title>
+<link>rtmp://www1.iguide.to/iguide playpath=zgy73uv68bmplao swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+<thumbnail>http://latelete.tv/img/tyc.png</thumbnail>
+<fanart>http://www.martinferdkin.com.ar/news/tycsports/tyc1.jpg</fanart>
+<info>[B] TyC Sports es un canal de televisión de deportes argentino. Su programación se basa íntegramente en relación al deporte.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT MEXICO[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR red]Inestable[/COLOR]</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=522&amp;name=foxsports&amp;sd=si</page>
+<referer>http://embed.latino-webtv.com/foxsports.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://foxinternationalchannels.com/wp-content/uploads/2013/10/logos-big_0020_Vector-Smart-Object.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Señal disponible en todos los países del continente de habla hispana[/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT MEXICO HD[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Sportdevil Opción 2[/COLOR] </title>
+<sportsdevil>http://sintelehd.wix.com.usrfiles.com/html/2ce017_812f2fbde4c6e64c7be62366d6ed6755.html</sportsdevil>
+<referer>http://sintelehd.wix.com.usrfiles.com</referer>
+<thumbnail>http://foxinternationalchannels.com/wp-content/uploads/2013/10/logos-big_0020_Vector-Smart-Object.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Señal disponible en todos los países del continente de habla hispana[/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.zony.tv</referer>
+</regex><regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-sports-en-vivo.html</page>  
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Señal disponible en todos los países del continente de habla hispana[/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Sportdevil Opción 2[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Señal disponible en todos los países del continente de habla hispana[/B]</info>
+</item>	
+http://soloveo.com/foxsports.html
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Sportdevil Opción 3[/COLOR]</title>
+<sportsdevil>http://www.fulltvhd.info/deportes/foxsports.php</sportsdevil>
+<referer>http://www.fulltvhd.info</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Señal disponible en todos los países del continente de habla hispana[/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT 2 ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.zony.tv</referer>
+</regex><regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-sports-2-en-vivo.html</page>  
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Fox Sports 2 (antes Fox Sports +) es un canal de televisión que emite eventos deportivos las 24 horas del día. Es la segunda señal de Fox Sports en América Latina, siendo un canal hermano de este mismo [/B]</info>
+</item>	
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT 2 ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Opción 2 [/COLOR] </title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=11&amp;name=foxsports2</page>
+<referer>http://embed.latino-webtv.com/foxsports2.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Fox Sports 2 (antes Fox Sports +) es un canal de televisión que emite eventos deportivos las 24 horas del día. Es la segunda señal de Fox Sports en América Latina, siendo un canal hermano de este mismo [/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT 2 ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Opción 3 Sporstdevil[/COLOR] </title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-2-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Fox Sports 2 (antes Fox Sports +) es un canal de televisión que emite eventos deportivos las 24 horas del día. Es la segunda señal de Fox Sports en América Latina, siendo un canal hermano de este mismo [/B]</info>
+</item>	
+
+<item>	
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT 3 ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-sports-3-en-vivo.html</page> 
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Fox Sports 3 reemplazó al canal Speed en su versión para Latinoamérica.1 [/B]</info>
+</item>	
+
+<item>	
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT 3 ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Opción 2[/COLOR] </title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=66&amp;name=foxsports3</page>
+<referer>http://embed.latino-webtv.com/foxsports3.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Fox Sports 3 reemplazó al canal Speed en su versión para Latinoamérica.1 [/B]</info>
+</item>
+
+<item>	
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT 3 ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Opción 3[/COLOR] </title>
+<link>http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Fox Sports 3 reemplazó al canal Speed en su versión para Latinoamérica.1 [/B]</info>
+</item>
+
+<item>	
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]FOX SPORT 3 ARGENTINA[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR=orange]Sportsdevil[/COLOR] </title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-3-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/433/184/433184834_640.jpg</fanart>
+<info>[B] Fox Sports 3 reemplazó al canal Speed en su versión para Latinoamérica.1 [/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]F1 LATINOAMERICA [/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/canal-f1-latinoamerica-en-vivo.html</page> 
+</regex>
+<thumbnail>http://www.autosmas.co/auto/wp-content/uploads/2015/03/wpid-Photo-20150318114453498.jpg</thumbnail>
+<fanart>http://canalf1latinamerica.com/wp-content/uploads/2015/02/Canal-F1-Latin-America.jpg</fanart>
+<info>[B] Canal F1 Latin América. 365 días/24h dedicadas al motor: F1®, GP2, GP3 y mucho más en HD y para todo Latinoamérica. [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]F1 LATINOAMERICA [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR=orange]Sportsdevil[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/canal-f1-latinoamerica-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+<thumbnail>http://www.autosmas.co/auto/wp-content/uploads/2015/03/wpid-Photo-20150318114453498.jpg</thumbnail>
+<fanart>http://canalf1latinamerica.com/wp-content/uploads/2015/02/Canal-F1-Latin-America.jpg</fanart>
+<info>[B] Canal F1 Latin América. 365 días/24h dedicadas al motor: F1®, GP2, GP3 y mucho más en HD y para todo Latinoamérica. [/B]</info>
+</item>
+
+item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]UNIVISION TDN  [/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://184.75.215.154:1935/boxlivetv/udn1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/uu/univision_tdn.png</thumbnail>
+<info>Univisión Deportes Network, mejor conocido como UDN, es un canal deportivo dedicado a los eventos de esta clase y a la programación relacionada con el deporte. Propiedad de Univisión Communications, que sirve a la comunidad latina e hispana en los Estados Unidos</info>
+</item>
+
+<item>
+			<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]UNIVISION TDN & ESPN (VARIADO)  [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR=orange]Sportsdevil[/COLOR]</title>
+<sportsdevil>http://sintelehd.wix.com.usrfiles.com/html/2ce017_770918d29e2fe0cd4fa13d1516dbb7eb.html</sportsdevil>
+<referer>http://sintelehd.wix.com.usrfiles.com</referer>
+			<thumbnail>http://www.lyngsat-logo.com/hires/uu/univision_tdn.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>Univisión Deportes Network, mejor conocido como UDN, es un canal deportivo dedicado a los eventos de esta clase y a la programación relacionada con el deporte. Propiedad de Univisión Communications, que sirve a la comunidad latina e hispana en los Estados Unidos</info>
+			</item>
+
+http://television-envivo.org/canalesdeportivos/univision-tdn.php
+http://www.fulltelevisionhd.net/2014/01/univision-deportes-network-en-vivo-por-internet.html                    
+<item> 
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]UNIVISION TDN  [/B][/COLOR] …•ˆ•.)</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/TTGOps2/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+             <thumbnail>http://www.lyngsat-logo.com/hires/uu/univision_tdn.png</thumbnail>
+<info>Univisión Deportes Network, mejor conocido como UDN, es un canal deportivo dedicado a los eventos de esta clase y a la programación relacionada con el deporte. Propiedad de Univisión Communications, que sirve a la comunidad latina e hispana en los Estados Unidos</info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]UNIVISION TDN  [/B][/COLOR] …•ˆ•.)[/COLOR]</title>              
+<link>$doregex[getURL]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>getURL</name>
+<expres>file.*(http.*?)[",']\W</expres>
+<page>http://latino-webtv.com/embed/stalker.php?canal=UnivisionTDNLA&amp;cm=82&amp;name=univision&amp;sd=si</page>
+<referer>http://embed.latino-webtv.com/univision.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/uu/univision_tdn.png</thumbnail>
+<info>Univisión Deportes Network, mejor conocido como UDN, es un canal deportivo dedicado a los eventos de esta clase y a la programación relacionada con el deporte. Propiedad de Univisión Communications, que sirve a la comunidad latina e hispana en los Estados Unidos</info>
+</item>
+                    
+
+
+<item>
+			<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]TDN  [/B][/COLOR] …•ˆ•.)</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/TTGOps1/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
+			<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+             <info>[B]TDN o Televisa Deportes Network es un canal especializado en deportes. Comenzó a emitir el 22 de julio de 2009. La señal a América Latina, se dará a conocer más adelante. Pertenece a Grupo Televisa[/B]</info>
+			</item>
+                        
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B] TDN & ESPN  [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR=orange]Eventos Variados[/COLOR]</title>
+<link>$doregex[getRTMP] app=app playpath=$doregex[getPATH] swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=$doregex[getDecPage] live=true timeout=15</link>
+<regex>
+<name>getRTMP</name>
+<expres>streamer', '(.*?)'</expres>
+<page>$doregex[getDecPage]</page>
+<referer>http://agenda.futligatv.net/tdn.html</referer>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>'file', unescape.'(.*?)'</expres>
+<page>$doregex[getDecPage]</page>
+<referer>http://agenda.futligatv.net/tdn.html</referer>
+</regex>
+<regex>
+<name>getDecPage</name>
+<expres>$pyFunction:urllib.unquote_plus("$doregex[getEncPage]")<expres>                                          
+<page></page>
+</regex>
+<regex>
+<name>getEncPage</name>
+<expres>$pyFunction:'$doregex[getEncSRC]'.replace('%27%2Bdka%2B%27','$doregex[getDKA]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getEncSRC</name>
+<expres>$pyFunction:urllib.quote_plus("$doregex[getSRC]")<expres>                                          
+<page></page>
+</regex>
+<regex>
+<name>getSRC</name>
+<expres>src="(.*?)"</expres>
+<page>http://shidurlive.com/embed/tdn02</page>
+<referer>http://agenda.futligatv.net/tdn.html</referer>
+</regex>
+<regex>
+<name>getDKA</name>
+<expres>var dka = '(.*?)'</expres>
+<page>http://shidurlive.com/embed/tdn02</page>
+<referer>http://agenda.futligatv.net/tdn.html</referer>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013fx#</agent>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
+<info>Univisión Deportes Network, mejor conocido como UDN, es un canal deportivo dedicado a los eventos de esta clase y a la programación relacionada con el deporte. Propiedad de Univisión Communications, que sirve a la comunidad latina e hispana en los Estados Unidos</info>
+</item>
+	
+<item>
+                        <title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]DIRECTV SPORT[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR=orange]Sportsdevil[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/directv-sports-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+<thumbnail>http://corporacionvideo.com/home/images/stories/Directvsports.jpg</thumbnail>
+                        <fanart>http://i.imgur.com/SXqXm.png</fanart>
+             <info>[B]DirecTV Sports es un canal de televisión deportivo que transmite las 24 horas del día. Está disponible en Hispanoamérica a través del sistema satelital DirecTV[/B]</info>
+                        </item>
+                         
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]DIRECTV SPORT[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/directv-sports-en-vivo.html</page> 
+</regex>
+<thumbnail>http://corporacionvideo.com/home/images/stories/Directvsports.jpg</thumbnail>
+                        <fanart>http://i.imgur.com/SXqXm.png</fanart>
+             <info>[B]DirecTV Sports es un canal de televisión deportivo que transmite las 24 horas del día. Está disponible en Hispanoamérica a través del sistema satelital DirecTV[/B]</info>
+                        </item> 
+    
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]GOL PERU (Solo Fútbol)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.mips.tv/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mips.tv</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://zeyu.ucoz.es/GolPeru.html</page>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-7WbA0GnIv4A/Vx8Zek3vivI/AAAAAAAAChU/qCbueHDhygc61rOfP81IJOUHcJs6-9BqgCCo/s200/gol-peru-en-vivo.png</thumbnail>
+<fanart>http://cde.peru.com/ima/0/0/5/2/3/523163/611x458.jpg</fanart>
+<info>[B]Canal Movistar Deportes (conocido también como CMD) antiguamente llamado Cable Magico Deportes ,es un canal de la televisión peruana por cable .. [/B] </info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]GOL PERU (Solo Fútbol)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR orange]Opción 2[/COLOR]</title>
+<link>http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8</link>
+<thumbnail>http://www.ciencianista.pe/wp-content/uploads/2013/01/CMD-GolTV.png</thumbnail>
+<fanart>http://cde.peru.com/ima/0/0/5/2/3/523163/611x458.jpg</fanart>
+<info>[B]Canal Movistar Deportes (conocido también como CMD) antiguamente llamado Cable Magico Deportes ,es un canal de la televisión peruana por cable .. [/B] </info>
+</item>
+
+<item>http://pelotafueratv.com/gol_peru.html
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]GOL PERU (Solo Fútbol)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR orange]Opción 3[/COLOR]</title>
+<sportsdevil>http://zeyu.ucoz.es/GolPeru.html</sportsdevil>
+<referer>http://zeyu.ucoz.es</referer>
+<thumbnail>http://4.bp.blogspot.com/-7WbA0GnIv4A/Vx8Zek3vivI/AAAAAAAAChU/qCbueHDhygc61rOfP81IJOUHcJs6-9BqgCCo/s200/gol-peru-en-vivo.png</thumbnail>
+<fanart>http://i54.tinypic.com/6s9zk0.jpg</fanart>
+<info>[B]Canal GOL Deportes, es un canal de noticias y transmisión del torneo de fútbol peruano  .. [/B] </info>
+</item>
+
+<item>https://www.youtube.com/channel/UCMbPxwYPNdUgvsRoutd0voQ
+<title>[COLOR=red](.•ˆ•… [COLOR=white] [B]GOL PERU (Solo Fútbol)[/B] [COLOR=red]…•ˆ•.)[/COLOR] [COLOR=red]Opción 4[/COLOR]</title>
+<sportsdevil>http://www.tele-envivo.com/gol-peru-en-vivo.html</sportsdevil>
+<referer>http://www.tele-envivo.com</referer>
+<thumbnail>http://4.bp.blogspot.com/-7WbA0GnIv4A/Vx8Zek3vivI/AAAAAAAAChU/qCbueHDhygc61rOfP81IJOUHcJs6-9BqgCCo/s200/gol-peru-en-vivo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal GOL Deportes, es un canal de noticias y transmisión del torneo de fútbol peruano  .. [/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]GOL PERU (Solo Fútbol)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR orange]Opción Eventos[/COLOR]</title>
+<sportsdevil>http://visionperuanatv.com/2015/05/cmd-en-vivo-por-internet.html</sportsdevil>
+<referer>http://visionperuanatv.com</referer>
+<thumbnail>http://www.ciencianista.pe/wp-content/uploads/2013/01/CMD-GolTV.png</thumbnail>
+<fanart>http://cde.peru.com/ima/0/0/5/2/3/523163/611x458.jpg</fanart>
+<info>[B]Canal Movistar Deportes (conocido también como CMD) antiguamente llamado Cable Magico Deportes ,es un canal de la televisión peruana por cable .. [/B] </info>
+</item>
+http://B36642.cdn.telefonica.com/36642/ch08/3-489671019.ts
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]CMD (Cable Magico Deportes)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8</link>
+<thumbnail>http://www.ciencianista.pe/wp-content/uploads/2013/01/CMD-GolTV.png</thumbnail>
+<fanart>http://cde.peru.com/ima/0/0/5/2/3/523163/611x458.jpg</fanart>
+<info>[B]Canal Movistar Deportes (conocido también como CMD) antiguamente llamado Cable Magico Deportes ,es un canal de la televisión peruana por cable .. [/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]GOL TV [/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR=green] Gracias a Juan CH.[/COLOR]</title>
+<link>http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png</thumbnail>
+<fanart>http://signalstelecomnews.com/wp-content/uploads/2014/10/goltv1-642x427.jpg</fanart>
+<info>[B]Canal Movistar Deportes (conocido también como CMD) antiguamente llamado Cable Magico Deportes ,es un canal de la televisión peruana por cable .. [/B] </info>
+</item>
+
+item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]GOL TV[/B][/COLOR] …•ˆ•.)[/COLOR] Zona Sur</title>
+<link>http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8?wowzasessionid=1194586295</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png</thumbnail>
+<fanart>http://signalstelecomnews.com/wp-content/uploads/2014/10/goltv1-642x427.jpg</fanart>
+<info>[B]Canal Movistar Deportes (conocido también como CMD) antiguamente llamado Cable Magico Deportes ,es un canal de la televisión peruana por cable .. [/B] </info>
+</item>	
+	 
+ <item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]UFC NETWORK)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/623546871525408768/8BLiGFqy.png</thumbnail>
+			<fanart>http://cmster.com/media/EgflzazZkveCZplJLcqc5n4FfjNMM8mCPFRplxRXm9JIRXATWdDPAU4ZlZFQNmNm.jpg</fanart>
+            <info>[B]LA UFC NEWTWORK LATINO![/B]</info>
+			</item>
+
+ <item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]UFC NETWORK)[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR mediumseagreen]Sportdevil Opción 2[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/ufc-network-en-vivo.html</page> 
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/623546871525408768/8BLiGFqy.png</thumbnail>
+			<fanart>http://cmster.com/media/EgflzazZkveCZplJLcqc5n4FfjNMM8mCPFRplxRXm9JIRXATWdDPAU4ZlZFQNmNm.jpg</fanart>
+            <info>[B]LA UFC NEWTWORK LATINO![/B]</info>
+			</item>
+
+	 <item>
+			<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]PLANETA FUTBOL[/B][/COLOR] …•ˆ•.)[/COLOR] [COLOR orange]Sportsdevil[/COLOR]</title>
+<sportsdevil>http://fut.tutv-porinternet.net/planeta.php?width=620&height=400</sportsdevil>
+<referer>http://fut.tutv-porinternet.net</referer>
+			<thumbnail>http://i2.esmas.com/2012/02/02/331761/planeta-futbol-ppe---235-235x325.jpg</thumbnail>
+			<fanart>http://oi57.tinypic.com/e1f6o4.jpg</fanart>
+             <info>[B]Planeta Futbol es el canal de televisión dedicado a transmitir la liga española y copa del rey donde transmite partidos de los equipos de gran nivel de este país como lo son el Real Madrid y el Barça, Valencia, Villarreal, Atlético de Madrid entre otros.[/B]</info>
+			</item>	 
+
+	 
+	<item>
+			<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]PLANETA FUTBOL-SKY SPORTS ESPAÑA[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+	<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=10</link>
+			<regex>
+				<name>rtmp</name>
+				<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://fut.tutv-porinternet.net/planeta.php?width=620&height=400</referer>
+			</regex>
+			<regex>
+				<name>path</name>
+				<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<referer>http://fut.tutv-porinternet.net/planeta.php?width=620&height=400</referer>
+			</regex>
+			<regex>
+				<name>do-ping</name>
+				<expres></expres>
+				<page>$doregex[pagewait]$doregex[get-ping]</page>
+				<referer>http://shidurlive.com</referer>
+				<ignorecache/>
+			</regex>
+			<regex>
+				<name>pagewait</name>
+				<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+				<page></page>
+				<referer>http://shidurlive.com</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<regex>
+				<name>get-ping</name>
+				<expres>"pingsts" src="(.*?)"</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://fut.tutv-porinternet.net/planeta.php?width=620&height=400</referer>
+			</regex>
+			<regex>
+				<name>get-page</name>
+				<expres>src="(.*?)"</expres>
+				<page>http://shidurlive.com/embed/planetafut</page>
+				<referer>http://fut.tutv-porinternet.net/planeta.php?width=620&height=400</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://i2.esmas.com/2012/02/02/331761/planeta-futbol-ppe---235-235x325.jpg</thumbnail>
+			<fanart>http://oi57.tinypic.com/e1f6o4.jpg</fanart>
+             <info>[B]Planeta Futbol es el canal de televisión dedicado a transmitir la liga española y copa del rey donde transmite partidos de los equipos de gran nivel de este país como lo son el Real Madrid y el Barça, Valencia, Villarreal, Atlético de Madrid entre otros.[/B]</info>
+			</item>
+                        
+                        <item>
+			<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]TVC DEPORTES[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=10</link>
+			<regex>
+				<name>rtmp</name>
+				<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://tv.televall.com.mx/tvcdep.html</referer>
+			</regex>
+			<regex>
+				<name>path</name>
+				<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<referer>http://tv.televall.com.mx/tvcdep.html</referer>
+			</regex>
+			<regex>
+				<name>do-ping</name>
+				<expres></expres>
+				<page>$doregex[pagewait]$doregex[get-ping]</page>
+				<referer>http://shidurlive.com</referer>
+				<ignorecache/>
+			</regex>
+			<regex>
+				<name>pagewait</name>
+				<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+				<page></page>
+				<referer>http://shidurlive.com</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<regex>
+				<name>get-ping</name>
+				<expres>"pingsts" src="(.*?)"</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://tv.televall.com.mx/tvcdep.html</referer>
+			</regex>
+			<regex>
+				<name>get-page</name>
+				<expres>src="(.*?)"</expres>
+				<page>http://shidurlive.com/embed/tvcdep</page>
+				<referer>http://tv.televall.com.mx/tvcdep.html</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://superluchas.com/wp-content/uploads/2010/05/tvc_deportes.png</thumbnail>
+			<fanart>http://www.tvcnetworks.mx/Portals/_default/Skins/Incredible/css/tvc/tvc-networks-streaming-en-vivo.jpg</fanart>
+             <info>[B]TVC Deportes, es un canal deportivo producido por PCTV, dueña de TVC Networks, que se trasmite por medio de la señal de cable en México [/B]</info>
+			</item>
+
+
+
+
+<item>
+			<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]CANAL VARIADO DE DEPORTES EVENTOS[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<sportsdevil>http://folgoreo.blogspot.com/2016/03/kon.html</sportsdevil>
+<referer>http://folgoreo.blogspot.com</referer>
+			<thumbnail>http://corporacionvideo.com/home/images/stories/Directvsports.jpg</thumbnail>
+                        <fanart>http://i.imgur.com/SXqXm.png</fanart>
+             <info>[B]DirecTV Sports es un canal de televisión deportivo que transmite las 24 horas del día. Está disponible en Hispanoamérica a través del sistema satelital DirecTV[/B]</info>
+			</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]MULTICANAL DEPORTIVOS EN ESPAÑOL[/B][/COLOR] …•ˆ•.)[/COLOR][COLOR=red]Indefinido - Por Evento[/COLOR] </title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/view/30569/max5a',False,False)</expres>
+<page></page>
+</regex>
+<thumbnail>http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png</thumbnail>
+<fanart>http://crcom.es/wp-content/uploads/2014/05/Retransmision_partido_futbol-e1400180907785.jpg</fanart>
+<info>[B]Canal 24 horas de transmisión de eventos o programas deportivos [/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]CDN SPORTS MAX[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<sportsdevil>http://livestream.com/accounts/15754920/events/5198653/player?width=1078&amp;height=606&amp;autoPlay=false&amp;mute=false</sportsdevil>
+<referer>http://livestream.com</referer>
+<thumbnail>http://1.bp.blogspot.com/-BDOCj6Bpso0/VPm_qHtHjKI/AAAAAAAABXA/WoZwp-6iCEA/s1600/cdn_sports_max_do.png</thumbnail>
+<fanart>http://www.fecofutsalon.com/images/LogoClaroSports1.jpg</fanart>
+<info>[B]CDN Sport Max Somos la noticia y el deporte.CDN, Cadena de Noticias, estación informativa de la República Dominicana. Emisiones fijas de noticias[/B] </info>
+</item>
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]CLARO SPORT[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/claro_olymp01_delivery@410550/master.m3u8</link>
+<thumbnail>http://www.unicablemargarita.com/images/channel/claro_sport.jpg</thumbnail>
+<fanart>http://www.fecofutsalon.com/images/LogoClaroSports1.jpg</fanart>
+<info>[B]Claro Sports es un canal de televisión deportivo que transmite las 24 horas del día. Está disponible en México y Latinoamérica y es propiedad de América Móvil.1[/B] </info>
+</item>
+
+<item>
+			<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]CLARO SPORT[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[getRTMP] app=app playpath=$doregex[getPATH] swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=$doregex[getDecPage] live=true timeout=15</link>
+<regex>
+<name>getRTMP</name>
+<expres>streamer', '(.*?)'</expres>
+<page>$doregex[getDecPage]</page>
+<referer>http://agenda.futligatv.net/claro.html</referer>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>'file', unescape.'(.*?)'</expres>
+<page>$doregex[getDecPage]</page>
+<referer>http://agenda.futligatv.net/claro.html</referer>
+</regex>
+<regex>
+<name>getDecPage</name>
+<expres>$pyFunction:urllib.unquote_plus("$doregex[getEncPage]")<expres>                                          
+<page></page>
+</regex>
+<regex>
+<name>getEncPage</name>
+<expres>$pyFunction:'$doregex[getEncSRC]'.replace('%27%2Bdka%2B%27','$doregex[getDKA]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getEncSRC</name>
+<expres>$pyFunction:urllib.quote_plus("$doregex[getSRC]")<expres>                                          
+<page></page>
+</regex>
+<regex>
+<name>getSRC</name>
+<expres>src="(.*?)"</expres>
+<page>http://shidurlive.com/embed/claro</page>
+<referer>http://agenda.futligatv.net/claro.html</referer>
+</regex>
+<regex>
+<name>getDKA</name>
+<expres>var dka = '(.*?)'</expres>
+<page>http://shidurlive.com/embed/claro</page>
+<referer>http://agenda.futligatv.net/claro.html</referer>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013fx#</agent>
+</regex>
+			<thumbnail>http://www.unicablemargarita.com/images/channel/claro_sport.jpg</thumbnail>
+<fanart>http://www.fecofutsalon.com/images/LogoClaroSports1.jpg</fanart>
+<info>[B]Claro Sports es un canal de televisión deportivo que transmite las 24 horas del día. Está disponible en México y Latinoamérica y es propiedad de América Móvil.1[/B] </info>
+</item>
+
+
+<item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]CLARO SPORT 2[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[getRTMP] app=app playpath=$doregex[getPATH] swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=$doregex[getDecPage] live=true timeout=15</link>
+<regex>
+<name>getRTMP</name>
+<expres>streamer', '(.*?)'</expres>
+<page>$doregex[getDecPage]</page>
+<referer>http://agenda.futligatv.net/claro2.html</referer>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>'file', unescape.'(.*?)'</expres>
+<page>$doregex[getDecPage]</page>
+<referer>http://agenda.futligatv.net/claro2.html</referer>
+</regex>
+<regex>
+<name>getDecPage</name>
+<expres>$pyFunction:urllib.unquote_plus("$doregex[getEncPage]")<expres>                                          
+<page></page>
+</regex>
+<regex>
+<name>getEncPage</name>
+<expres>$pyFunction:'$doregex[getEncSRC]'.replace('%27%2Bdka%2B%27','$doregex[getDKA]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getEncSRC</name>
+<expres>$pyFunction:urllib.quote_plus("$doregex[getSRC]")<expres>                                          
+<page></page>
+</regex>
+<regex>
+<name>getSRC</name>
+<expres>src="(.*?)"</expres>
+<page>http://shidurlive.com/embed/canal52mx</page>
+<referer>http://agenda.futligatv.net/claro2.html</referer>
+</regex>
+<regex>
+<name>getDKA</name>
+<expres>var dka = '(.*?)'</expres>
+<page>http://shidurlive.com/embed/canal52mx</page>
+<referer>http://agenda.futligatv.net/claro2.html</referer>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013fx#</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-eVh1ylkDtEw/UqMOEKUMUWI/AAAAAAAACGU/1T0i4zxNVow/s320/claro+sports.png</thumbnail>
+<fanart>http://www.fecofutsalon.com/images/LogoClaroSports1.jpg</fanart>
+<info>[B]Claro Sports es un canal de televisión deportivo que transmite las 24 horas del día. Está disponible en México y Latinoamérica y es propiedad de América Móvil.1[/B] </info>
+</item> 
+
+ 
+
+
+ 
+ <item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]TODODEPORTE[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://162.212.176.83:8080/tododeportes.stream.m3u8</link>
+<thumbnail>http://www.canal11.hn/assets/images/todo_deporte.jpg</thumbnail>
+<fanart>http://signalstelecomnews.com/wp-content/uploads/2014/10/goltv1-642x427.jpg</fanart>
+<info>[B]El primer canal de deportes de Honduras 24 horas [/B] </info>
+</item>
+ 
+ 
+  <item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]SULAVISION[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>http://162.212.176.83:8080/sulavision.m3u8</link>
+<thumbnail>http://www.fullcanales.com/video/img_videos/honduras-tv-gratis.jpg</thumbnail>
+<fanart>http://signalstelecomnews.com/wp-content/uploads/2014/10/goltv1-642x427.jpg</fanart>
+<info>[B]Sulavisión (Canal 8 de Cable Sula) es un canal de TV que trasmite desde San Pedro Sula, Honduras[/B] </info>
+</item>
+ 
+item>
+<title>[COLOR=blue](.•ˆ•… [COLOR=FFFFD700][B]UFC 24/7 Channel (INGLES - MEJORES PELEAS)[/B][/COLOR] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_profe3193 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/profe3193$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page>http://vaughnlive.tv/profe3193</page>
+</regex>
+<thumbnail>https://eaassets-a.akamaihd.net/vassets.ea.com/Assets/Resources/EASO/Image/ufcfeaturepage_logo.png</thumbnail>
+			<fanart>http://cmster.com/media/EgflzazZkveCZplJLcqc5n4FfjNMM8mCPFRplxRXm9JIRXATWdDPAU4ZlZFQNmNm.jpg</fanart>
+            <info>[B]LAS MEJORES PELEAS VARIADAS DE LA UFC 24/7 HORAS![/B]</info>
+			</item>
+
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+  <channel> 
+    <name>[COLOR gold][B]NOMINACIONES OSCAR 2016[/B][/COLOR]</name>
+    <thumbnail>https://dl.dropbox.com/s/xoz8exfycr512yr/LogooscarBassf1.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/LaPD7KDjjjg/maxresdefault.jpg</fanart>
+    <info>[B]Mira algunas películas nominadas al Oscar 2016 y decide para ti cual es la mejor película por categorias[/B]</info>
+    <link>ignoreme</link>
+    <externallink2>https://dl.dropbox.com/s/sikz6uvj1lxegmd/FavoritesOscar2016ByBassFoxNocopiesHDPuta.xml</externallink2>
+    <externallink>chNetflix_01a_oscar.xml<externallink>
+  </channel>
+
+  <channel>
+    <name>[COLOR khaki][B]PELICULAS[/B][/COLOR]</name>
+    <thumbnail>https://dl.dropbox.com/s/8xo4mt8egdcdpka/LogoPeliculasEP1.jpg</thumbnail>
+    <fanart>https://dl.dropbox.com/s/ax36jts2qdwd8c3/bassfox-hd-wallpapers2.jpg</fanart>
+    <info>[B]PELICULAS POR CATEGORIAS [/B]</info>
+    <link>ignoreme</link>
+    <externallink2>https://dl.dropbox.com/s/o3c87esrmrz9egg/menuprincipaldelaspeliculas.xml</externallink2>
+    <externallink>chNetflix_01b_pelis.xml</externallink>
+  </channel>
+
+  <channel>
+    <name>[COLOR gold][B]PELICULAS QUASAR[/B][/COLOR]</name>
+    <thumbnail>https://dl.dropbox.com/s/rw1v4qxwd35lrza/LogoQuasaRBassFox.jpg</thumbnail>
+    <fanart>https://dl.dropbox.com/s/ax36jts2qdwd8c3/bassfox-hd-wallpapers2.jpg</fanart>
+    <info>[B]PELICULAS POR CATEGORIAS CON EL ADDON QUASAR[/B]</info>
+    <link>ignoreme</link>
+    <externallink2>https://dl.dropbox.com/s/uydyh5n2zk736ua/MenuPrincipalPeliculasPulsar.xml</externallink2>
+    <externallink>chNetflix_01c_pelquasar.xml</externallink>
+  </channel>
+
+  <channel>
+    <name>[COLOR khaki][B]SERIES[/B][/COLOR]</name>
+    <thumbnail>https://dl.dropbox.com/s/xxtkv7fojh93uiv/LogoSeriesTVEP1.jpg</thumbnail>
+    <fanart>https://dl.dropbox.com/s/ax36jts2qdwd8c3/bassfox-hd-wallpapers2.jpg</fanart>
+    <info>[B]Series de TV[/B]</info>
+    <link>ignoreme</link>
+    <externallink2>https://dl.dropbox.com/s/2efsb5d47kg69ef/tvseries.bassfox2020HijodeputanocopiesFisgon.xml</externallink2>
+    <externallink>chNetflix_01d_series.xml</externallink>
+  </channel>
+
+  <channel>
+    <name>[COLOR gold][B]TELENOVELAS[/B][/COLOR]</name>
+    <thumbnail></thumbnail>
+    <fanart>h</fanart>
+    <info>[B]NOVELAS[/B]</info>
+    <link>http://ignoreme</link>
+    <externallink2>https://www.googledrive.com/host/0BxiGGKdb2yNBN0ZsQi1yRVRhNmM</externallink2>
+    <externallink>chNetflix_01e_telenovelas.xml</externallink>
+  </channel>
+
+  <channel>
+    <name>[COLOR khaki][B]CINE EN CASA[/B][/COLOR]</name>
+    <thumbnail>https://dl.dropbox.com/s/b9rk29yta0s32w8/logo%20version%202.png</thumbnail>
+    <fanart>http://blog.lodgis.com/wp-content/uploads/2015/03/salle-de-cinema.jpg</fanart>
+    <info>[B]TU CINE EN BASSFOX DE LA MANO DE SISKO[/B]</info><link>http://ignoreme</link>
+    <externallink2>https://dl.dropbox.com/s/vbjdod2wb0ej2fs/bienvenido%20a%20bassfox%20version%202.0.xml</externallink2>
+    <externallink>chNetflix_01f_cinecasa</externallink>
+  </channel>
+
+  <channel>
+    <name>[COLOR gold][B]PELICULAS &amp; SERIES 24/7[/B]  (Español)[/COLOR]</name>
+    <thumbnail>https://dl.dropbox.com/s/at4kfztgipbvyir/LogoPeli24horas1.jpg</thumbnail>
+    <fanart>https://dl.dropbox.com/s/ax36jts2qdwd8c3/bassfox-hd-wallpapers2.jpg</fanart>
+    <info>[B]Canales de Peliculas y series las 24hrs .[/B]</info><link>http://ignoreme</link>
+    <externallink2>https://dl.dropbox.com/s/2dzw94ysk5ba9ta/pelicyserie24hs_2080bassfxxclientip%26Hijodeputa.xml</externallink2>
+    <externallink>chNetflix_01g_ps24esp.xml</externallink>
+  </channel>
+
+  <channel>
+    <name>[COLOR khaki][B]PELICULAS &amp; SERIES 24/7[/B]  (Inglés)[/COLOR]</name>
+    <thumbnail>https://dl.dropbox.com/s/kxd0s9a6o2xdy7j/LogoS3rYMovi3s24hrs.jpg</thumbnail>
+    <fanart>https://dl.dropbox.com/s/ax36jts2qdwd8c3/bassfox-hd-wallpapers2.jpg</fanart>
+    <info>[B]Canales de Peliculas y series las 24hrs .[/B]</info><link>http://ignoreme</link>
+    <externallink2>https://dl.dropbox.com/s/zhtljfcrpcijmy4/Series%26Movies24.7hbassfoxEngOnly.xml</externallink2>
+    <externallink>chNetflix_01h_ps24ing.xml</externallink>
+  </channel>
+
+</channels>
+
+
+
+
+

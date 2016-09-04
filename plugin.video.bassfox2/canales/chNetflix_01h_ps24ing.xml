@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item>
+                          <title>[COLOR=blue] [B] >>>>>> FILMS 24hrs <<<<<< [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.twitip.com/wp-content/uploads/2011/06/TV_REMOTE_02.jpg</thumbnail>
+<fanart>https://truequeselsalavador.files.wordpress.com/2013/04/movies.jpg</fanart>
+</item>
+
+		<item>
+			<title>[COLOR=white](.•ˆ•… [B]CHRISDAMOVIES[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/chrisdavemovies</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+                        <thumbnail>http://dauger.com/hobbies/blu-ray-logo-400-300x300.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]MOVIES BLURAY 24/7!!![/B]</info>
+                        </item>	
+
+		
+ <item>
+			<title>[COLOR=white](.•ˆ•… [B]Chark Movies[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/111aaacharkmovies</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+		 	<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/111aaacharkmovies_320.jpg</thumbnail>
+		 <fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+          <info>[B] Movies HD![/B]</info>
+			</item>
+        
+		
+<item>
+<title>[COLOR=white](.•ˆ•… [B]CAJUN FLIXX [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/cajunflix123</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cajunflixx_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]MOVIES 24/7 HS![/B]</info>
+</item>
+
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]CHICK TV[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/chicktv</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+		 	<thumbnail>http://i292.photobucket.com/albums/mm16/kiwijunglist/category/720p.png</thumbnail>
+		 <fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+          <info>[B]MOVIES 24/7 HS![/B]</info>
+			</item>
+
+
+ <item>
+ 
+			<item>
+			<title>[COLOR=white](.•ˆ•… [B]416 MOVIES[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/416moviez</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+                        <thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/416moviez_320.jpgSE</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]24 HS MOVIES, SHOWS, REALITYS [/B]</info>
+			</item>
+                        
+                        			
+ <item>
+ 
+			<item>
+			<title>[COLOR=white](.•ˆ•… [B]MOVIES, SHOWS, REALITYS CharkComedy[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/111aaacharkcomedy</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+                        <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/111aaacharkcomedy_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]24 HS MOVIES, SHOWS, REALITYS [/B]</info>
+			</item>
+                        
+                                              <item>
+			<title>[COLOR=white](.•ˆ•… [B] MOVIES ThEFuNhOuS3 [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/thefunhous3</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://www.clker.com/cliparts/c/1/a/1/12985810301278174831dave_film.png</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]MOVIES 24/7 [/B]</info>
+			</item>
+
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]1 CRIME[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/1crime</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/1crime_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]24/7 HORAS![/B]</info>
+</item>
+                  
+                        <item>
+			<title>[COLOR=white](.•ˆ•… [B]VIRTUATHEATER[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/virtuatheater</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/virtuatheater_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]+ MOVIES 24 hours [/B]</info>
+			</item>
+ 
+
+<item>
+
+<title>[COLOR=white](.•ˆ•… [B]MOVIES by ritchie2333 [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/ritchie2333</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://scifispace.com/wp-content/uploads/2013/05/logo-video-graphic.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Movies 24/7[/B]</info>
+</item>
+
+
+<item>
+
+<title>[COLOR=white](.•ˆ•… [B]416 MOVIES[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/416movies</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/416movies_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Movies 24/7[/B]</info>
+</item>                        
+<item>
+<title>[COLOR=white](.•ˆ•… [B]Back to the 80s BACK TO THE 80[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/docbrown1</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://www.cafe80.cz/img/back-to-80s.png</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]24/7 HOURS![/B]</info>
+</item>
+                        
+
+<item>
+                          <title>[COLOR=blue] [B] >>>>>> HORROR MOVIES 24hrs <<<<<< [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.twitip.com/wp-content/uploads/2011/06/TV_REMOTE_02.jpg</thumbnail>
+<fanart>https://truequeselsalavador.files.wordpress.com/2013/04/movies.jpg</fanart>
+</item>
+
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]THE BAD MOVIE CHANNEL[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/thebadmoviechannel</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/thebadmoviechannel_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]BEST MOVIES VARIOUS FILM PREMIERES 24/7 HORAS![/B]</info>
+			</item>
+
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]__HORROR__[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/_horror_</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/_horror__320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]BEST MOVIES VARIOUS FILM PREMIERES 24/7 HORAS![/B]</info>
+			</item>
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B] THE HORROR MOVIE [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/dollazhorror1</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.staractionfigures.co.uk/user/categories/thumbnails/horror%20movies%20logo.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]MOVIES HORROR  24/7![/B]</info>
+</item>
+
+item>
+<title>[COLOR=white](.•ˆ•… [B] FREAKY FETISH [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/freakyfetish101</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/freakyfetish101_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]MOVIES HORROR  24/7![/B]</info>
+</item>	
+
+item>
+<title>[COLOR=white](.•ˆ•… [B]HORROR 4 YOU!!! HORROR 4 LIFE!!![/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/finnhorror</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/finnhorror_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]HORROR MOVIES 24/7 HOURS![/B]</info>
+</item>	
+
+ <item>
+			<title>[COLOR=white](.•ˆ•… [B]APOCALYPTIC TV [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/postapocalyptictv</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/postapocalyptictv_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Post Apocalyptic TV. The 24/7 channel for all your dystopian entertainment, theatre, and documentaries 24/7 HORAS![/B]</info>
+			</item>
+                                                
+                        
+<item>
+                          <title>[COLOR=blue] [B] >>>>>> SERIES TV 24hrs <<<<<< [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.twitip.com/wp-content/uploads/2011/06/TV_REMOTE_02.jpg</thumbnail>
+<fanart>https://truequeselsalavador.files.wordpress.com/2013/04/movies.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]SHOW TV VARIOUS[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/lmshows_dj</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/00big_bang_theory_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]THE BIG BANG THEORY 24/7!![/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]LITTLE HOUSE ON MY PRAIRIE[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/trekchad</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://ecx.images-amazon.com/images/I/51T7z5rCCWL.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]LITTLE HOUSE ON MY PRAIRIE 24/7!![/B]</info>
+</item>	
+
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]CRIME TV SHOWS[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/profe3197</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/profe3197_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]TV SERIES 24/7!![/B]</info>
+</item>	 
+
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]COPS TV SHOWS[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/profe3196</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/profe3196_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]COPS TV SERIES 24/7!![/B]</info>
+</item>	
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]StudioWolvy TV SHOWS[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/studio__wolvy</page>                           
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/studio__wolvy_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Enjoy the shows and as always Thanks for watching 24/7 HORAS![/B]</info>
+            </item>
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]IMPROV COMEDY (Seinfeld)[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/improv_comedy</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/improv_comedy_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]THANK YOU Supporter/s of Seinfeld:(June 2016)[/B]</info>            
+			</item>
+                        
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]IMPROV COMEDY 2 (Loves Raymond)[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/improv_comedy2</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/improv_comedy2_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]THANK YOU Supporter/s of Everybody Loves Raymond:(June 2016)[/B]</info>
+			</item>
+                        		
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]THE INTORECITER[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/interociter</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/interociter_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Interociter TV transmits most weekends bringing you the best in entertainment from the planet Metaluna
+Read more at http://vaughnlive.tv/interociter#id4xucJyeJzDJZTR.99r[/B]</info>
+			</item>
+                        
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]JETVISION 411 TV SHOWS[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/jetmetalman</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://static.blogo.it/cinemaniablog/remakes-de-terror-en-2013/01.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]WELLCOME TO JETVISION LAS 24 HS [/B]</info>
+			</item>
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]TV SERIES STUFF & MOVIES[/B] …•ˆ•.)[/COLOR] </title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/spacegirlmovies</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/spacegirlmovies_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]LAS MEJORES PELÍCULAS DE TERROR EN BLU RAY HD 24 7 A LTA CALIDAD AUDIO LATINO[/B]</info>
+			</item>
+                        
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]lmshows mws SHOWS TV [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/lmshows_mws</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+                        <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/lmshows_mws_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]PELÍCULAS ACCIÓN , FICCIÓN , FANTASÍA ✿◕‿◕✿ ✿ ✿ ✿ SUSPENSO Y LAS MEJORES PELÍCULAS CLÁSICAS EN HD[/B]</info>
+			</item>
+                        
+<item>
+<title>[COLOR=white](.•ˆ•… [B] QInteresting (British)[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/qinteresting</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/qinteresting_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Possibly the greatest LIVE streaming video site on the internet!LAS 24/7 HORAS![/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]TOP GEAR[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/profe3191</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.masgamers.com/wp-content/uploads/2015/05/top-gear.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]TOP GEAR SHOW 24/7 HOURS![/B]</info>
+</item>
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]CRIMECENTRAL ID Investigation Discovery[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/crimecentral</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.imgur.com/BVd1CQS.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]CRIME CENTRAL 24/7 HOURS![/B]</info>
+</item>
+
+
+                                 <item>
+			<title>[COLOR=white](.•ˆ•… [B]CHEERS TV CHANNEL[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/chrisdave1</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/chrisdave1_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]WELLCOME TO JETVISION LAS 24 HS [/B]</info>
+			</item>
+
+<item>
+                          <title>[COLOR=blue] [B] >>>>>> CARTOONS & ANIME 24hrs <<<<<< [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.twitip.com/wp-content/uploads/2011/06/TV_REMOTE_02.jpg</thumbnail>
+<fanart>https://truequeselsalavador.files.wordpress.com/2013/04/movies.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]DRAGON BALL Z[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/captnshacky</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/captnshacky_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]CAPTNSHACKY 24/7 HOURS![/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]THE SIMPSONS[/B] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[get-decode] swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://miplayer.net/</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=simpsons</page>
+</regex> 
+<thumbnail>http://i1288.photobucket.com/albums/b487/elkinderguapo1982/Simpsons_ofn_zpsc1909f58.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]THE SIMPSONS 24/7 HOURS![/B]</info>
+</item>
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]THE SIMPSONS[/B] …•ˆ•.)[/COLOR] [COLOR skyblue] Op 2[/COLOR]</title>
+<link>http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8</link>  
+<thumbnail>http://i1288.photobucket.com/albums/b487/elkinderguapo1982/Simpsons_ofn_zpsc1909f58.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]THE SIMPSONS 24/7 HOURS![/B]</info>
+</item>
+
+
+    <item>
+			<title>[COLOR=white](.•ˆ•… [B]FUTURAMA[/B] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[get-decode] swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://miplayer.net/</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=futurama</page>
+</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/highspothorror105_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]FUTURAMA SHOW 24/7 [/B]</info>
+			</item>
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]SOUTH PARK TV[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/profe3195</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://img4.wikia.nocookie.net/__cb20140305135025/south-park/pt-br/images/7/75/18956846_1387852431.png</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]SOUTH PARK SHOW 24/7 [/B]</info>
+			</regex>
+			</item>
+
+
+                    
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]FAMILY GUY[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/highspothorror113</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/highspothorror113_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]FAMILY GUY SHOW 24/7 [/B]</info>
+			</regex>
+			</item>
+                        
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]FAMILY GUY[/B] …•ˆ•.)[/COLOR] [COLOR skyblue] Op 2[/COLOR]</title>
+<link>$doregex[get-decode] swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://miplayer.net/</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=familyguy</page>
+</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/highspothorror113_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]FAMILY GUY SHOW 24/7 [/B]</info>
+			</regex>
+			</item>
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B]AMERICAN DAD[/B] …•ˆ•.)[/COLOR]</title>
+<link>$doregex[get-decode] swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://miplayer.net/</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=AmericanDad</page>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/highspothorror108_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]AMERICAN DAD SHOW 24/7 [/B]</info>
+</item>	
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]BIG BANG[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/profe3194</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/profe3194_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]90s CARTOONS ALL TIME 24/7 [/B]</info>
+			</regex>
+			</item>
+                        
+<item>
+<title>[COLOR=white](.•ˆ•… [B]ANIMATION[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/animationnation101</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/animationnation101_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]ANIMATION SHOW 24/7 [/B]</info>
+</item>	
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]ANIME[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/shoots102</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+                        <thumbnail>http://aic-tic.com/wp-content/uploads/2013/09/1540905349_ANIME_logo.png</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]TV CHANNEL 24 hours ANIMES WHERE AND SERIES most remembered TRANSMITTED BY FANS!!![/B]</info>
+                        </item>	
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]ANIMEGUNDAM TV (English sub) [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/animegundam</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+                        <thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/animegundam_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]TV CHANNEL 24 hours ANIMES WHERE AND SERIES most remembered TRANSMITTED BY FANS!!![/B]</info>
+                        </item>	
+
+
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]ANIME 24/7 TV (English sub) [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/bellpeppersandbeef</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+                        <thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/bellpeppersandbeef_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]TV CHANNEL 24 hours ANIMES WHERE AND SERIES most remembered TRANSMITTED BY FANS!!![/B]</info>
+                        </item>	
+                        
+
+<item>
+<title>[COLOR=white](.•ˆ•… [B] VARIOUS RAKKPANTEL [/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/rajjpantel</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+                        <thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/bellpeppersandbeef_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]TV CHANNEL 24 hours ANIMES WHERE AND SERIES most remembered TRANSMITTED BY FANS!!![/B]</info>
+                        </item>	
+                                                                        
+<item>
+<title>[COLOR=white](.•ˆ•… [B]TOM & JERRY 24/7[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1 </link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20100628215628/doblaje/es/images/f/ff/Tomyjerrycortos.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Streaming all episodes/seasons of Regular Show 24/7![/B]</info>
+</item>                        
+                        
+<item>
+<title>[COLOR=white](.•ˆ•… [B]Archer / Family Guy / Bobs Burgers[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/chrisdave4</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/chrisdave4_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+                        <info>[B]Currently playing 24/7!![/B]</info>
+</item>	
+ 		
+<item>
+			<title>[COLOR=white](.•ˆ•… [B]American Dad / Futurama / King Of the Hill / The Simpsons[/B] …•ˆ•.)[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/chrisdave2</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/chrisdave4_320.jpg</thumbnail>
+			<fanart>http://f.tqn.com/y/aprenderinternet/1/S/t/a/-/-/Vaughnlive-tv-logo.jpg</fanart>
+            <info>[B]Currently playing 24/7![/B]</info>
+</item> 
+			
+
+		
+	
+
